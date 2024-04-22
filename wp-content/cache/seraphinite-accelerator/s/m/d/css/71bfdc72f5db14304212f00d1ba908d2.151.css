@@ -1,0 +1,1 @@
+.wd-nav-pagin-wrap{min-height:var(--wd-pagin-size,10px);margin-top:20px;text-align:var(--text-align);font-size:0}.wd-nav-pagin{--list-mb:0;--li-mb:0;--li-pl:0;list-style:none;display:inline-flex;align-items:center;gap:var(--wd-pagin-gap,10px);transition:all .25s ease}.wd-nav-pagin:not([class*=wd-type-]),.wd-nav-pagin.wd-lock{opacity:0}

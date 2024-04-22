@@ -1,0 +1,1 @@
+.whb-general-header{--wd-header-h:calc(var(--wd-top-bar-h) + var(--wd-header-general-h))}.whb-header-bottom{--wd-header-h:calc(var(--wd-top-bar-h) + var(--wd-header-general-h) + var(--wd-header-bottom-h))}

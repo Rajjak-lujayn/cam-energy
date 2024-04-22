@@ -1,0 +1,1 @@
+.wd-load-more.loading{display:none;animation:wd-fadeOut .3s ease both}.wd-load-more.loading+.wd-load-more-loader{display:inline-flex;animation:wd-fadeIn .3s ease both}.wd-load-more.loading+.wd-load-more-loader .load-more-loading:before{--wd-anim-state:running}

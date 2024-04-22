@@ -1,0 +1,673 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Analytics Germanized\n"
+"POT-Creation-Date: 2020-02-14 22:31+0100\n"
+"PO-Revision-Date: 2020-02-14 22:31+0100\n"
+"Last-Translator: Pascal Bajorat <pascal@pascal-bajorat.com>\n"
+"Language-Team: Pascal Bajorat <pascal@pascal-bajorat.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ga-germanized.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/gag_settings.php:24
+msgid "Settings"
+msgstr "Einstellungen"
+
+#. Plugin Name of the plugin/theme
+#: inc/gag_settings.php:68 inc/tpl/options_page.php:6
+#: inc/tpl/options_page.php:27
+msgid "Google Analytics Germanized"
+msgstr "Google Analytics Germanized"
+
+#: inc/gag_settings.php:69
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: inc/gag_settings_handler.php:190 inc/tpl/options_page.php:277
+msgid "Cookie Policy"
+msgstr "Cookie Policy"
+
+#: inc/gag_settings_handler.php:230 inc/tpl/options_page.php:329
+msgid ""
+"This website uses cookies to ensure you get the best experience on our "
+"website."
+msgstr ""
+"Cookies helfen uns bei der Bereitstellung unserer Inhalte und Dienste. Durch "
+"die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu."
+
+#: inc/gag_settings_handler.php:238 inc/tpl/options_page.php:339
+msgid "Got it!"
+msgstr "Okay!"
+
+#: inc/gag_settings_handler.php:246 inc/tpl/options_page.php:349
+msgid "Allow Cookies"
+msgstr "Cookies erlauben"
+
+#: inc/gag_settings_handler.php:254 inc/tpl/options_page.php:359
+msgid "Refuse Cookies"
+msgstr "Cookies ablehnen"
+
+#: inc/gag_settings_handler.php:274 inc/tpl/options_page.php:385
+msgid "Learn more"
+msgstr "Mehr erfahren"
+
+#: inc/gag_settings_handler.php:282 inc/tpl/options_page.php:395
+msgid "https://cookiesandyou.com/"
+msgstr "https://cookiesandyou.com/"
+
+#: inc/gag_settings_handler.php:386
+#, php-format
+msgid "Field \"%s\": %s"
+msgstr "Feld \"%s\": %s"
+
+#: inc/gag_settings_handler.php:398
+msgid "Settings saved!"
+msgstr "Einstellungen gespeichert!"
+
+#: inc/gag_settings_handler.php:430
+msgid "setting is required"
+msgstr "Diese Einstellung ist ein Pflichtfeld"
+
+#: inc/gag_settings_handler.php:438
+#, php-format
+msgid "min length is %d characters, current length is %d"
+msgstr "Mindestlänge ist %d, aktuelle Länge ist jedoch %d"
+
+#: inc/gag_settings_handler.php:450
+#, php-format
+msgid "max length is %d characters, current length is %d"
+msgstr "Maximallänge ist %d, aktuelle Länge ist jedoch %d"
+
+#: inc/gag_settings_handler.php:460
+msgid "unknown value"
+msgstr "ungültiger Wert"
+
+#: inc/gag_shortcodes.php:50
+msgid "Google Analytics Opt-out Cookie was set!"
+msgstr "Der Google Analytics Opt-out Cookie wurde gesetzt!"
+
+#: inc/gag_shortcodes.php:60 inc/tpl/options_page.php:54
+msgid "Disable Google Analytics"
+msgstr "Google Analytics deaktivieren"
+
+#: inc/gag_shortcodes.php:66
+#, php-format
+msgid "<a href=\"#\" data-ua=\"%s\" class=\"gaoptout\">%s</a>"
+msgstr "<a href=\"#\" data-ua=\"%s\" class=\"gaoptout\">%s</a>"
+
+#: inc/tpl/options_page.php:15
+msgid "General"
+msgstr "Allgemein"
+
+#: inc/tpl/options_page.php:16
+msgid "Tracking Settings"
+msgstr "Tracking Einstellungen"
+
+#: inc/tpl/options_page.php:17
+msgid "Cookie Notice"
+msgstr "Cookie Notice"
+
+#: inc/tpl/options_page.php:18
+msgid "Tracking Codes"
+msgstr "Tracking-Codes"
+
+#: inc/tpl/options_page.php:19
+msgid "How it works"
+msgstr "Anleitung"
+
+#: inc/tpl/options_page.php:20
+msgid "About us"
+msgstr ""
+
+#: inc/tpl/options_page.php:20
+msgid "NEW"
+msgstr "NEU"
+
+#: inc/tpl/options_page.php:33
+msgid "Google Analytics ID"
+msgstr "Google Analytics ID"
+
+#: inc/tpl/options_page.php:34
+msgid "Google Analytics ID: UA-XXXXXXXX-XX"
+msgstr "Google Analytics ID: UA-XXXXXXXX-XX"
+
+#: inc/tpl/options_page.php:38
+msgid "Google Analytics Mode"
+msgstr "Google Analytics Modus"
+
+#: inc/tpl/options_page.php:41
+msgid "Global site tag (gtag.js)"
+msgstr "Global site tag (gtag.js)"
+
+#: inc/tpl/options_page.php:41
+msgid "recommended"
+msgstr "empfohlen"
+
+#: inc/tpl/options_page.php:42
+msgid "Universal Analytics (analytics.js)"
+msgstr "Universal Analytics (analytics.js)"
+
+#: inc/tpl/options_page.php:47
+msgid "Google Analytics Opt-out"
+msgstr "Google Analytics Opt-out"
+
+#: inc/tpl/options_page.php:49
+#, php-format
+msgid ""
+"Use the following shortcode to integrate a Google Analytics Opt-out link, "
+"for example in <a href=\"%s\" target=\"_blank\">your privacy policy</a>."
+msgstr ""
+"Mithilfe des folgenden Shortcodes kann ein Google Analytics Opt-out-Link "
+"erzeugt werden, zum Beispiel zur Integration in die <a href=\"%s\" target="
+"\"_blank\">Datenschutzerklärung</a>."
+
+#: inc/tpl/options_page.php:58 inc/tpl/options_page.php:209
+#: inc/tpl/options_page.php:475 inc/tpl/options_page.php:549
+msgid "Save Changes"
+msgstr "Einstellungen speichern"
+
+#: inc/tpl/options_page.php:70
+msgid "Disable Analytics"
+msgstr "Analytics deaktivieren"
+
+#: inc/tpl/options_page.php:76
+msgid "Disable Google Analytics integration"
+msgstr "Google Analytics Integration deaktivieren"
+
+#: inc/tpl/options_page.php:78
+msgid ""
+"If you choose this option the Google Analytics integration will be disabled "
+"as well as all following features including \"anonymize_ip\". However, you "
+"can still use the Opt-out Shortcode. This is useful if you already have "
+"integrated another plugin and only need the Opt-out feature."
+msgstr ""
+"Bei Auswahl dieser Option wird die Integration von Google Analytics sowie "
+"alle folgenden Funktionen einschließlich \"anonymize_ip\" deaktiviert. "
+"Allerdings kann weiterhin der Opt-out Shortcode verwendet werden. Dies ist "
+"nützlich, wenn du Google Analytics bereits über ein anderes Plugin "
+"integriert hast und nur die Opt-Out Funktion benötigst."
+
+#: inc/tpl/options_page.php:88
+msgid "Anonymize IP"
+msgstr "Anonymize IP"
+
+#: inc/tpl/options_page.php:94
+msgid "Activate Anonymize IP"
+msgstr "Anonymize IP aktivieren"
+
+#: inc/tpl/options_page.php:96
+msgid ""
+"This parameter is required by European Union laws, we recommend to leave it "
+"activated."
+msgstr ""
+"Dieser Parameter ist nach Gesetzen der Europäischen Union erforderlich, wir "
+"empfehlen diesen aktiviert zu lassen."
+
+#: inc/tpl/options_page.php:106
+msgid "Demographics"
+msgstr "Demografie"
+
+#: inc/tpl/options_page.php:112
+msgid "Enable Demographics and Interests Reports"
+msgstr "Aktiviere Demografie- und Interessens-Reports"
+
+#: inc/tpl/options_page.php:114
+#, php-format
+msgid ""
+"This setting will add the Demographics and Remarketing features to your "
+"Google Analytics tracking code. Make sure to enable Demographics and "
+"Remarketing in your Google Analaytics account. For further information about "
+"Remarketing, we refer <a href=\"%s\" target=\"_blank\">Google's "
+"documentation</a>."
+msgstr ""
+"Diese Einstellung wird die Demografie und Remarketing-Funktionen im Google "
+"Analytics Tracking-Code hinzufügen. Bitte stelle sicher, dass Demografie und "
+"Remarketing auch in deinem Google Analaytics Konto aktiv ist. Für weitere "
+"Informationen über Remarketing verweisen wir auf die <a href=\"%s\" target="
+"\"_blank\">Google Analaytics Dokumentation</a>."
+
+#: inc/tpl/options_page.php:124
+msgid "Link Tracking"
+msgstr "Link Tracking"
+
+#: inc/tpl/options_page.php:130
+msgid "Enable Outbound Link Tracking"
+msgstr "Ausgehendes Link-Tracking aktivieren"
+
+#: inc/tpl/options_page.php:132
+msgid "Track outbound link clicks as Analytics event."
+msgstr "Tracke ausgehende Link-Klicks als Analytics Ereignis."
+
+#: inc/tpl/options_page.php:132
+msgid ""
+"This feature can cause problems with some links. Please check your site and "
+"disable this in case of problems."
+msgstr ""
+"Diese Funktion kann in manchen Fällen Probleme mit Links verursachen. Bitte "
+"prüfe deine Webseite und deaktiviere diese Funktion, falls Probleme "
+"auftreten."
+
+#: inc/tpl/options_page.php:143
+msgid "Enhanced Link Attribution"
+msgstr "Erweiterte Link-Attribution"
+
+#: inc/tpl/options_page.php:149
+msgid "Enable Enhanced Link Attribution"
+msgstr "Aktivieren die erweiterte Link Attribution"
+
+#: inc/tpl/options_page.php:151
+msgid ""
+"Enhanced Link Attribution improves the accuracy of your In-Page Analytics "
+"report. It automatically differentiates between multiple links of the same "
+"URL on a single page by using link element IDs."
+msgstr ""
+"Erweiterte Link Attribution verbessert die Genauigkeit der In-Page-Analyse-"
+"Berichte. Links auf die selbe URL werden dabei automatisch anhand von Link-"
+"Element-IDs unterschieden."
+
+#: inc/tpl/options_page.php:159
+msgid "Advanced Compatibility"
+msgstr "Erweiterte Kompatibilität"
+
+#: inc/tpl/options_page.php:163
+msgid "Domain to track"
+msgstr "Domain"
+
+#: inc/tpl/options_page.php:170
+msgid "Leave blank to use the \"auto\" mode (recommended)."
+msgstr "Freilassen um die \"Auto\"-Modus Funktion zu verwenden (empfohlen)."
+
+#: inc/tpl/options_page.php:176
+msgid "Custom Code"
+msgstr "Benutzerdefinierter Code"
+
+#: inc/tpl/options_page.php:182
+msgid "Put Custom Code inside the Google Analytics Tracker function."
+msgstr ""
+"Setze benutzerdefinierten Code innerhalb der Google Analytics-Tracking-"
+"Funktion."
+
+#: inc/tpl/options_page.php:190 inc/tpl/options_page.php:194
+#: inc/tpl/options_page.php:530 inc/tpl/options_page.php:534
+msgid "Do Not Track"
+msgstr "Do Not Track"
+
+#: inc/tpl/options_page.php:200 inc/tpl/options_page.php:540
+msgid "Respect \"Do Not Track\" Header"
+msgstr "Berücksichtige „Do Not Track“ Header"
+
+#: inc/tpl/options_page.php:202 inc/tpl/options_page.php:542
+msgid ""
+"Disable Tracking Codes completely if the users browser send a <a href="
+"\"https://en.wikipedia.org/wiki/Do_Not_Track\" target=\"_blank\">\"Do Not "
+"Track\" header</a>."
+msgstr ""
+"Schaltet Tracking-Codes komplett ab, falls der Browser des Nutzers den <a "
+"href=\"https://de.wikipedia.org/wiki/Do_Not_Track_(Software)\" target="
+"\"_blank\">\"Do Not Track\" Header</a> sendet."
+
+#: inc/tpl/options_page.php:202 inc/tpl/options_page.php:542
+msgid "Caching Plugins could disrupt this behaviour!"
+msgstr "Caching-Plugins können diese Funktion stören!"
+
+#: inc/tpl/options_page.php:222 inc/tpl/options_page.php:228
+msgid "Disable Cookie Notice"
+msgstr "Cookie-Notice deaktivieren"
+
+#: inc/tpl/options_page.php:229
+msgid "This will disable the Cookie Notice / Cookie Consent Integration."
+msgstr ""
+"Diese Einstellung deaktiviert den Cookie-Hinweis bzw. die Cookie Consent "
+"Integration."
+
+#: inc/tpl/options_page.php:239 inc/tpl/options_page.php:515
+msgid "Compliance Type"
+msgstr "Compliance Type"
+
+#: inc/tpl/options_page.php:244
+msgid "Notification (just tell users that we use cookies)"
+msgstr "Benachrichtigung (Nutzer nur über Cookies informieren)"
+
+#: inc/tpl/options_page.php:245
+msgid "Opt-in"
+msgstr "Opt-in"
+
+#: inc/tpl/options_page.php:246
+msgid "Opt-out"
+msgstr "Opt-out"
+
+#: inc/tpl/options_page.php:248
+msgid ""
+"<strong>Opt-in:</strong> Google Analytics tracking code will not fired "
+"<strong>before</strong> the user has <strong>confirmed</strong> your Cookie "
+"Consent banner."
+msgstr ""
+"<strong>Opt-in:</strong> Google Analytics Tracking-Code wird erst "
+"<strong>nach der Bestätigung</strong> des Cookie Consent Banner "
+"<strong>ausgeführt</strong>."
+
+#: inc/tpl/options_page.php:249
+msgid ""
+"<strong>Opt-out:</strong> Google Analytics tracking code will not fired "
+"<strong>after</strong> the user has <strong>declined</strong> your Cookie "
+"Consent banner."
+msgstr ""
+"<strong>Opt-out:</strong> Google Analytics Tracking-Code wird <strong>nach "
+"der Ablehnung</strong> des Cookie Consent Banner <strong>nicht mehr "
+"ausgeführt</strong>."
+
+#: inc/tpl/options_page.php:260
+msgid "Revocable"
+msgstr "Widerrufbar"
+
+#: inc/tpl/options_page.php:266
+msgid "Revocable Cookie Notice"
+msgstr "Widerrufbare Cookie-Notice"
+
+#: inc/tpl/options_page.php:267
+msgid "Cookie Notice could be opened again with a small grey button."
+msgstr ""
+"Die Cookie Notice kann durch den Nutzer erneut geöffnet werden, mittels "
+"eines kleinen grauen Buttons."
+
+#: inc/tpl/options_page.php:273 inc/tpl/options_page.php:463
+msgid "Button Text"
+msgstr "Button-Text"
+
+#: inc/tpl/options_page.php:287
+msgid "Position"
+msgstr "Position"
+
+#: inc/tpl/options_page.php:292
+msgid "Banner bottom"
+msgstr "Banner unten"
+
+#: inc/tpl/options_page.php:293
+msgid "Banner top"
+msgstr "Banner oben"
+
+#: inc/tpl/options_page.php:294
+msgid "Banner top (pushdown)"
+msgstr "Banner oben (pushdown)"
+
+#: inc/tpl/options_page.php:295
+msgid "Floating left"
+msgstr "Links unten"
+
+#: inc/tpl/options_page.php:296
+msgid "Floating right"
+msgstr "Rechts unten"
+
+#: inc/tpl/options_page.php:307
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/tpl/options_page.php:312
+msgid "Block"
+msgstr "Block"
+
+#: inc/tpl/options_page.php:313
+msgid "Edgeless"
+msgstr "Randlos"
+
+#: inc/tpl/options_page.php:314
+msgid "Classic"
+msgstr "Klassisch"
+
+#: inc/tpl/options_page.php:325
+msgid "Message"
+msgstr "Nachricht"
+
+#: inc/tpl/options_page.php:335
+msgid "Dismiss Button Text"
+msgstr "Schließen-Button Text"
+
+#: inc/tpl/options_page.php:345
+msgid "Allow Button Text"
+msgstr "Erlauben-Button Text"
+
+#: inc/tpl/options_page.php:355
+msgid "Deny Button Text"
+msgstr "Ablehnen-Button Text"
+
+#: inc/tpl/options_page.php:367 inc/tpl/options_page.php:373
+msgid "Enable Policy link"
+msgstr "Policy-Link aktivieren"
+
+#: inc/tpl/options_page.php:374
+msgid ""
+"Enable a policy link after your message, this could be linked to you privacy "
+"policy for example."
+msgstr ""
+"Aktiviere einen Link zu deiner Datenschutzerklärung nach deiner Banner-"
+"Nachricht."
+
+#: inc/tpl/options_page.php:381
+msgid "Policy link text"
+msgstr "Policy-Link Text"
+
+#: inc/tpl/options_page.php:391
+msgid "Policy link"
+msgstr "Policy-Link"
+
+#: inc/tpl/options_page.php:405
+msgid "Pick a layout"
+msgstr "Wähle ein Farbschema"
+
+#: inc/tpl/options_page.php:419
+msgid "Choose a layout we already made for you."
+msgstr "Wähle aus einem vorgefertigten Farbschema."
+
+#: inc/tpl/options_page.php:428
+msgid "Banner Background"
+msgstr "Banner-Hintergrund"
+
+#: inc/tpl/options_page.php:432 inc/tpl/options_page.php:443
+#: inc/tpl/options_page.php:456 inc/tpl/options_page.php:467
+msgid "Color as Hex Color Code"
+msgstr "Farbe als Hex-Farbcode"
+
+#: inc/tpl/options_page.php:433 inc/tpl/options_page.php:444
+#: inc/tpl/options_page.php:457 inc/tpl/options_page.php:468
+msgid "Color as Hex Color Code, for example #ff0000 = red"
+msgstr "Farbe als Hex-Farbcode, z.B. #ff0000 für rot"
+
+#: inc/tpl/options_page.php:439
+msgid "Banner Text"
+msgstr "Banner-Text"
+
+#: inc/tpl/options_page.php:452
+msgid "Button Background"
+msgstr "Button-Hintergrund"
+
+#: inc/tpl/options_page.php:483
+msgid "Other Tracking Codes"
+msgstr "Weitere Tracking-Codes"
+
+#: inc/tpl/options_page.php:487
+msgid "Code (head)"
+msgstr "Code (head)"
+
+#: inc/tpl/options_page.php:493
+msgid "Custom Tracker or other Code placed inside head-tag"
+msgstr "Benutzerdefinierte Tracker oder Code innerhalb des head-Tag"
+
+#: inc/tpl/options_page.php:499
+msgid "Code (footer)"
+msgstr "Code (footer)"
+
+#: inc/tpl/options_page.php:505
+msgid "Custom Tracker or other Code placed in the footer"
+msgstr "Benutzerdefinierte Tracker oder Code innerhalb des wp_footer"
+
+#: inc/tpl/options_page.php:521
+msgid "Cookie Consent Compliance Setting"
+msgstr "Cookie Consent Compliance Einstellung"
+
+#: inc/tpl/options_page.php:522
+msgid ""
+"Enable this checkbox to reflect the Cookie Consent compliance type setting."
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, um die Einstellung aus der Cookie "
+"Consent Compliance Einstellung zu berücksichtigen."
+
+#: inc/tpl/options_page.php:556
+msgid "Disclaimer"
+msgstr "Haftungsausschluss"
+
+#: inc/tpl/options_page.php:556
+msgid ""
+"The plugin was developed to the best of our knowledge and belief. However, "
+"there will be no guarantee for the legal certainty of the implementation. "
+"The following statements are no legal advice."
+msgstr ""
+"Das Plugin wurde nach bestem Wissen und Gewissen entwickelt. Es wird jedoch "
+"keine Garantie für die Rechtssicherheit der Umsetzung übernommen. Die "
+"folgenden Ausführungen sind keine Rechtsberatung."
+
+#: inc/tpl/options_page.php:561
+msgid "Google Analytics Germanized is very easy and convenient."
+msgstr "Google Analytics Germanized ist sehr einfach und bequem."
+
+#: inc/tpl/options_page.php:565
+msgid ""
+"You can use this plugin to integrate Google Analytics conform to EU law in "
+"compliance with data protection. For this you only need to put your Google "
+"Analytics ID into the general settings. Other settings (e.g. AnonymizeIP) "
+"are preconfigured accordingly and need to be changed only when needed or "
+"when extensions are desired."
+msgstr ""
+"Du kannst mit diesem Plugin Google Analytics datenschutzkonform nach EU-"
+"Recht einbinden. Hierzu musst du bei den allgemeinen Einstellungen lediglich "
+"deine Google Analytics ID eintragen. Andere Einstellungen (z.B. AnonymizeIP) "
+"sind entsprechend vorkonfiguriert und müssen nur bei Bedarf oder gewünschten "
+"Erweiterungen umgestellt werden."
+
+#: inc/tpl/options_page.php:567
+msgid ""
+"For a privacy-compliant integration, it is necessary that you clarify the "
+"use of Google Analytics in your privacy policy. Additionally, a possibility "
+"for an opt-out of Google Analytics must be created. For the opt-out you can "
+"use the shortcode described in the tab general, point 3."
+msgstr ""
+"Für eine datenschutzkonforme Integration ist es notwendig, dass du über die "
+"Verwendung von Google Analytics in deiner Datenschutzerklärung hinweist. "
+"Zusätzlich muss eine Möglichkeit für einen Opt-out von Google Analytics "
+"geschaffen werden. Für den Opt-out kannst du den in Punkt 3 (unter Tab "
+"Allgemein) beschriebenen Shortcode verwenden."
+
+#: inc/tpl/options_page.php:569
+#, php-format
+msgid ""
+"A good generator for a privacy policy is provided by eRecht24. <a href=\"%s"
+"\" target=\"_blank\">Go to eRecht24 Generator</a>"
+msgstr ""
+"Ein guter Generator für eine Datenschutzerklärung wird von eRecht24 zur "
+"Verfügung gestellt. <a href=\"%s\" target=\"_blank\">Zum eRecht24-Generator</"
+"a>"
+
+#: inc/tpl/options_page.php:572
+msgid ""
+"In the advanced settings features of Google Analytics can be activated. "
+"Corresponding information can be found in the settings."
+msgstr ""
+"In den erweiterten Einstellungen können zusätzliche Funktionen von Google "
+"Analytics aktiviert werden. Entsprechende Informationen befinden sich in den "
+"Einstellungen."
+
+#: inc/tpl/options_page.php:637
+#, php-format
+msgid "developed and maintained by %s."
+msgstr "Entwickelt und gewartet von %s."
+
+#: inc/tpl/options_page.php:637
+msgid "Bajorat Media - WordPress Agency"
+msgstr "Bajorat Media - WordPress Agentur"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/ga-germanized/"
+msgstr "https://de.wordpress.org/plugins/ga-germanized/"
+
+#. Description of the plugin/theme
+msgid ""
+"Google Analytics preconfigured to respect EU law (GDPR / DSGVO) and with "
+"lots of advanced analytics settings for extensive tracking possibilities."
+msgstr ""
+"Google Analytics vorkonfiguriert um sich an das neue EU-Datenschutzgesetzt "
+"(GDPR / DSGVO) zu halten und bietet darüberhinaus weitere umfangreiche "
+"Einstellungen."
+
+#. Author of the plugin/theme
+msgid "Pascal Bajorat"
+msgstr "Pascal Bajorat"
+
+#. Author URI of the plugin/theme
+msgid "https://www.bajorat-media.com/"
+msgstr "https://www.bajorat-media.com/"
+
+#~ msgid "GDPR Special"
+#~ msgstr "DSGVO Special"
+
+#~ msgid "Advanced Tracking Settings"
+#~ msgstr "Erweiterte Tracking Einstellungen"
+
+#~ msgid ""
+#~ "Use the following shortcode to integrate a Google Analytics Opt-out link, "
+#~ "for example in your privacy policy."
+#~ msgstr ""
+#~ "Mithilfe des folgenden Shortcodes kann ein Google Analytics Opt-out-Link "
+#~ "erzeugt werden, zum Beispiel zur Integration in die Datenschutzerklärung."
+
+#~ msgid "Global Site Tag (gtag.js)"
+#~ msgstr "Global Site Tag (gtag.js)"
+
+#~ msgid ""
+#~ "Use the following Shortcode to integrate a Google Analytics Opt-out link, "
+#~ "for example in your privacy policy."
+#~ msgstr ""
+#~ "Mithilfe des folgenden Shortcodes kann ein Google Analytics Opt-out-Link "
+#~ "erzeugt werden, zum Beispiel zur Integration in die Datenschutzerklärung."
+
+#~ msgid ""
+#~ "You can use this plugin to integrate Google Analytics into EU law in "
+#~ "compliance with data protection. For this you only need to enter your "
+#~ "Google Analytics ID in the general settings. Other settings (e.g., "
+#~ "AnonymizeIP) are preconfigured accordingly and need to be changed only "
+#~ "when needed or desired extensions."
+#~ msgstr ""
+#~ "Du kannst mit diesem Plugin Google Analytics datenschutzkonform nach EU-"
+#~ "Recht einbinden. Hierzu musst du bei den allgemeinen Einstellungen "
+#~ "lediglich deine Google Analytics ID eintragen. Andere Einstellungen (z.B. "
+#~ "AnonymizeIP) sind entsprechend vorkonfiguriert und müssen nur bei Bedarf "
+#~ "oder gewünschten Erweiterungen umgestellt werden."
+
+#~ msgid ""
+#~ "For a privacy-compliant integration, it is necessary that you clarify the "
+#~ "use of Google Analytics in your privacy policy. In addition, a "
+#~ "possibility for an opt-out of Google Analytics must be created. For the "
+#~ "opt-out you can use the shortcode described in point 3."
+#~ msgstr ""
+#~ "Für eine datenschutzkonforme Integration ist es notwendig, dass du über "
+#~ "die Verwendung von Google Analytics in deiner Datenschutzerklärung "
+#~ "hinweist. Zusätzlich muss eine Möglichkeit für einen Opt-out von Google "
+#~ "Analytics geschaffen werden. Für den Opt-out kannst du den in Punkt 3 "
+#~ "(unter Tab Allgemein) beschriebenen Shortcode verwenden."
+
+#~ msgid ""
+#~ "In the advanced settings, features of Google Analytics can be activated. "
+#~ "Corresponding information can be found in the settings."
+#~ msgstr ""
+#~ "In den erweiterten Einstellungen können zusätzliche Funktionen von Google "
+#~ "Analytics aktiviert werden. Entsprechende Informationen befinden sich in "
+#~ "den Einstellungen."

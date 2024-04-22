@@ -1,0 +1,1 @@
+.wd-list{list-style:none;--li-pl:0;--list-mb:0;--li-mb:15px}.wd-list li{position:relative;display:flex;align-items:center;justify-content:inherit;gap:10px;transition:all .25s ease}.wd-list .wd-icon,.wd-list>li>img,.wd-list picture{max-width:150px;flex:0 0 auto;vertical-align:middle;text-align:center;transition:inherit}
