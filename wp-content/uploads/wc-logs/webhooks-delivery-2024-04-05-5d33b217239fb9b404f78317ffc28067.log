@@ -1,0 +1,248 @@
+2024-04-05T00:03:00+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 8aeb13b7cf8daaaa07da6d133213880c
+            [Date] => Apr 5, 2024 @ 0:03
+            [URL] => https://webhook.bigseller.com/callback/woocommerce/2233854/submit.json
+            [Duration] => 2.13417
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.6.1 Hookshot (WordPress/6.4.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://cam-energy.com/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => WxerqKPo17M+jhXX+8cCisWDbKmW069TJ8l7L0en090=
+                            [X-WC-Webhook-ID] => 4
+                            [X-WC-Webhook-Delivery-ID] => 8aeb13b7cf8daaaa07da6d133213880c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 05 Apr 2024 00:03:00 GMT
+                                    [content-length] => 0
+                                    [server] => nginx
+                                    [set-cookie] => JSESSIONID=8A91A6C550AF189B5E3BF9A5ED1D3FE7; Path=/; HttpOnly
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-04-05T07:14:31+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 15c65c008f59ecde176e63c257496987
+            [Date] => Apr 5, 2024 @ 7:14
+            [URL] => https://webhook.bigseller.com/callback/woocommerce/2233854/submit.json
+            [Duration] => 2.32899
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.6.1 Hookshot (WordPress/6.4.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://cam-energy.com/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 4JqncgeRBNkrypqjhLdpGUA230jDzSbta1jlUK/SXD0=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 15c65c008f59ecde176e63c257496987
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 05 Apr 2024 07:14:31 GMT
+                                    [content-length] => 0
+                                    [server] => nginx
+                                    [set-cookie] => JSESSIONID=F871A91E613548DCB7B3B201CE1647DF; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-04-05T07:14:33+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 5625268af342c79ffac97d7ec7b96542
+            [Date] => Apr 5, 2024 @ 7:14
+            [URL] => https://webhook.bigseller.com/callback/woocommerce/2233854/submit.json
+            [Duration] => 1.87812
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.6.1 Hookshot (WordPress/6.4.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://cam-energy.com/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => IqmwjPUSV6thBQyF3fCqLlQtFmizxjMHxisVlhbIVrc=
+                            [X-WC-Webhook-ID] => 4
+                            [X-WC-Webhook-Delivery-ID] => 5625268af342c79ffac97d7ec7b96542
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 05 Apr 2024 07:14:33 GMT
+                                    [content-length] => 0
+                                    [server] => nginx
+                                    [set-cookie] => JSESSIONID=5A66D499D9D6DE79B9D2F12633E2E8A9; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-04-05T13:23:47+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 84311e1c3ca8cce2d162bf8d7badbe57
+            [Date] => Apr 5, 2024 @ 13:23
+            [URL] => https://webhook.bigseller.com/callback/woocommerce/2233854/submit.json
+            [Duration] => 2.39482
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.6.1 Hookshot (WordPress/6.4.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://cam-energy.com/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => wTkwlNxTdea02kBqkF+LeNQjllPMkSIvVbq2Q+x6WcM=
+                            [X-WC-Webhook-ID] => 4
+                            [X-WC-Webhook-Delivery-ID] => 84311e1c3ca8cce2d162bf8d7badbe57
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 05 Apr 2024 13:23:47 GMT
+                                    [content-length] => 0
+                                    [server] => nginx
+                                    [set-cookie] => JSESSIONID=727936DA1E0DE69FB20ED3D151AED5D4; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-04-05T13:24:37+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 14366b8bed0efdc942d164d01c623633
+            [Date] => Apr 5, 2024 @ 13:24
+            [URL] => https://webhook.bigseller.com/callback/woocommerce/2233854/submit.json
+            [Duration] => 2.2794
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/8.6.1 Hookshot (WordPress/6.4.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://cam-energy.com/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => W84O9kHeB9cOJMeQXVBnbgOO4641zA682N0DGHr1HvQ=
+                            [X-WC-Webhook-ID] => 4
+                            [X-WC-Webhook-Delivery-ID] => 14366b8bed0efdc942d164d01c623633
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Fri, 05 Apr 2024 13:24:37 GMT
+                                    [content-length] => 0
+                                    [server] => nginx
+                                    [set-cookie] => JSESSIONID=58EB771983F7C423E5E3864B1E73B444; Path=/; HttpOnly
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)

@@ -1,0 +1,1749 @@
+﻿post_title,post_name,post_parent,ID,post_content,post_excerpt,post_status,sku,parent_sku,children,regular_price,sale_price,weight,length,width,height,tax_class,sold_individually,tax_status,upsell_ids,crosssell_ids,purchase_note,product_url,images,product_page_url,meta:total_sales,attribute:Adhesive-width,attribute_data:Adhesive-width,attribute_default:Adhesive-width,"attribute:Box door","attribute_data:Box door","attribute_default:Box door",attribute:Coating,attribute_data:Coating,attribute_default:Coating,attribute:Coating:,attribute_data:Coating:,attribute_default:Coating:,attribute:Color,attribute_data:Color,attribute_default:Color,attribute:Condition,attribute_data:Condition,attribute_default:Condition,"attribute:Cup size","attribute_data:Cup size","attribute_default:Cup size",attribute:Diameter,attribute_data:Diameter,attribute_default:Diameter,attribute:Diameter/Thickness,attribute_data:Diameter/Thickness,attribute_default:Diameter/Thickness,attribute:Die-diameter,attribute_data:Die-diameter,attribute_default:Die-diameter,attribute:Dimension(L*W*H),attribute_data:Dimension(L*W*H),attribute_default:Dimension(L*W*H),"attribute:External dimensions","attribute_data:External dimensions","attribute_default:External dimensions",attribute:Form,attribute_data:Form,attribute_default:Form,attribute:Gurley(JIS),attribute_data:Gurley(JIS),attribute_default:Gurley(JIS),"attribute:Inner box material","attribute_data:Inner box material","attribute_default:Inner box material","attribute:Inner box size(L*W*H)","attribute_data:Inner box size(L*W*H)","attribute_default:Inner box size(L*W*H)","attribute:Inner diameter","attribute_data:Inner diameter","attribute_default:Inner diameter",attribute:Length,attribute_data:Length,attribute_default:Length,"attribute:MD Shrinkage @ 90°C / 1 hour","attribute_data:MD Shrinkage @ 90°C / 1 hour","attribute_default:MD Shrinkage @ 90°C / 1 hour","attribute:MD Shrinkage @ 90℃/1 Hour","attribute_data:MD Shrinkage @ 90℃/1 Hour","attribute_default:MD Shrinkage @ 90℃/1 Hour","attribute:Main unit weight","attribute_data:Main unit weight","attribute_default:Main unit weight",attribute:Material,attribute_data:Material,attribute_default:Material,"attribute:Memory channel (condition setting memory) User settable channels Fixed data channels","attribute_data:Memory channel (condition setting memory) User settable channels Fixed data channels","attribute_default:Memory channel (condition setting memory) User settable channels Fixed data channels",attribute:Metal-thickness,attribute_data:Metal-thickness,attribute_default:Metal-thickness,attribute:Model,attribute_data:Model,attribute_default:Model,"attribute:Mould size","attribute_data:Mould size","attribute_default:Mould size",attribute:Name,attribute_data:Name,attribute_default:Name,"attribute:Other containers","attribute_data:Other containers","attribute_default:Other containers","attribute:Outside shell material","attribute_data:Outside shell material","attribute_default:Outside shell material","attribute:PP Pore Size (Average Diameter)","attribute_data:PP Pore Size (Average Diameter)","attribute_default:PP Pore Size (Average Diameter)",attribute:Porosity,attribute_data:Porosity,attribute_default:Porosity,attribute:Power,attribute_data:Power,attribute_default:Power,"attribute:Power consumption","attribute_data:Power consumption","attribute_default:Power consumption","attribute:Power supply voltage","attribute_data:Power supply voltage","attribute_default:Power supply voltage","attribute:Puncture Strength","attribute_data:Puncture Strength","attribute_default:Puncture Strength","attribute:Safety device","attribute_data:Safety device","attribute_default:Safety device","attribute:Settable time","attribute_data:Settable time","attribute_default:Settable time",attribute:Shelf,attribute_data:Shelf,attribute_default:Shelf,attribute:Size,attribute_data:Size,attribute_default:Size,"attribute:Source voltage","attribute_data:Source voltage","attribute_default:Source voltage","attribute:Speed of revolution","attribute_data:Speed of revolution","attribute_default:Speed of revolution","attribute:Speed of rotation","attribute_data:Speed of rotation","attribute_default:Speed of rotation","attribute:Stainless Steel Type","attribute_data:Stainless Steel Type","attribute_default:Stainless Steel Type","attribute:Step mode","attribute_data:Step mode","attribute_default:Step mode","attribute:TD Shrinkage @ 90°C / 1 hour","attribute_data:TD Shrinkage @ 90°C / 1 hour","attribute_default:TD Shrinkage @ 90°C / 1 hour","attribute:TD Shrinkage @ 90℃/1 Hour","attribute_data:TD Shrinkage @ 90℃/1 Hour","attribute_default:TD Shrinkage @ 90℃/1 Hour",attribute:Tab-height,attribute_data:Tab-height,attribute_default:Tab-height,attribute:Tab-width,attribute_data:Tab-width,attribute_default:Tab-width,"attribute:Temperature controller","attribute_data:Temperature controller","attribute_default:Temperature controller","attribute:Temperature fluctuation","attribute_data:Temperature fluctuation","attribute_default:Temperature fluctuation","attribute:Temperature range","attribute_data:Temperature range","attribute_default:Temperature range","attribute:Tensile Strength, MD","attribute_data:Tensile Strength, MD","attribute_default:Tensile Strength, MD","attribute:Tensile Strength, TD","attribute_data:Tensile Strength, TD","attribute_default:Tensile Strength, TD",attribute:Thickness,attribute_data:Thickness,attribute_default:Thickness,attribute:Type,attribute_data:Type,attribute_default:Type,"attribute:Vacuum degree","attribute_data:Vacuum degree","attribute_default:Vacuum degree",attribute:Volume,attribute_data:Volume,attribute_default:Volume,attribute:Warranty,attribute_data:Warranty,attribute_default:Warranty,attribute:Width,attribute_data:Width,attribute_default:Width,attribute:pa_thickness,attribute_data:pa_thickness,attribute_default:pa_thickness,attribute:pa_width,attribute_data:pa_width,attribute_default:pa_width
+"Precision Heat Sealer",precision-heat-sealer-2,,5244,"<h2 class=""product-name"" data-hook=""product-title"">Precision Heat Sealer</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" data-hook=""product-page-description-content-wrapper"">
+<p>This machine tests high polymer film used as a packing material for heat sealing under controlled temperature, pressure and time conditions. It is also optimal for the testing of adhesives on sensible heat and printing ink on heat resistance.</p>
+<p>&nbsp;</p>
+<p><u><strong>SPECIFICATION:</strong></u></p>
+<p>&nbsp;</p>
+<ul>
+<li>Model No. EGTP-701-B</li>
+<li>Temp. range : max. 300 °C, PID control (upper and lower heat seal bar)</li>
+<li>Pressure (Load) : Air input, max. 0.5 MPa (1 kN)</li>
+<li>Sealing time : 0.1 sec ∼ max. 9990h</li>
+<li>Heat seal bar : 10 mm (W) x  300 mm (L)</li>
+<li>Ref. standard  : JIS Z 0238, JIS Z 1514, JIS Z 1707</li>
+<li>Power supply : AC100V</li>
+<li>Dimensions: Approx. 72 cm (W) x 40 cm (D) x 54 cm (H)</li>
+<li>Options : Impulse seal (TP-701-I)</li>
+<li>Japanese product</li>
+</ul>
+</div>
+</div>
+</section>
+",,publish,,,,19800,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2018/04/Precision-Heat-Sealer.jpg ! alt : Precision Heat Sealer ! title : Precision Heat Sealer ! desc :  ! caption : ",https://cam-energy.com/product/precision-heat-sealer-2/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Polyvinylidene Fluoride (PVDF) Binder",polyvinylidene-fluoride-pvdf-binder,,5248,"<h2 class=""product-name"" data-hook=""product-title"">Polyvinylidene Fluoride (PVDF) Binder</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+Kynar HSV 900 PVDF binder is a popular binder for the cathode electrode. It enables higher energy density due to the increased active material content. HSV series binders also demonstrate low swelling levels in common solvents and electrolytes (even at elevated temperatures – up to 80ºC). Binder swelling can have serious consequences in a lithium-ion battery, so Kynar HSV resins can ensure peace of mind.
+.
+Active materials are constantly changing in the evolution of evermore efficient batteries. It is critical for binder solutions to provide high adhesion properties no matter what active material is being used. The Kynar® HSV series maintain excellent adhesion properties with LiCoO2, LiFePO4, LiMn2O4, NMC Oxides, and NCA.
+
+&nbsp;
+
+</div>
+</div>
+</section>","PVDF Binder, Kynar HSV 900 for Lithium-ion Batteries
+
+80g pack",publish,Kynar-HSV-900,,,80,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/462997_73f32f5bac384b38ad40f5b1ca7f703b_mv2_d_1600_1200_s_2.jpg ! alt :  ! title : 462997_73f32f5bac384b38ad40f5b1ca7f703b_mv2_d_1600_1200_s_2 ! desc :  ! caption : ",https://cam-energy.com/product/polyvinylidene-fluoride-pvdf-binder/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Nickel Tabs",nickel-tabs,,5250,"<h2 class=""product-name"" data-hook=""product-title"">Nickel Tabs</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+Battery tabs for making contacts in pouch cells
+<ul>
+ 	<li>Type: Nickel tab</li>
+ 	<li>Metal thickness : 200 um</li>
+ 	<li>Adhesive thickness : 100 um</li>
+ 	<li>Adhesive melting point : outer edge about 155 C and middle 245 C</li>
+ 	<li>Size and thickness: customisable upon request</li>
+ 	<li>Item: battery welding tabs</li>
+</ul>
+</div>
+</div>
+</section>",,publish,,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/b841a8_ece54bbec9cd44b7b9313b2fefd12808_mv2.jpg ! alt :  ! title : b841a8_ece54bbec9cd44b7b9313b2fefd12808_mv2 ! desc :  ! caption : ",https://cam-energy.com/product/nickel-tabs/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Nickel Plated Copper Tabs",nickel-plated-copper-tabs,,5252,"<h2 class=""product-name"" data-hook=""product-title"">Nickel Plated Copper Tabs</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+Battery tabs for making contacts in pouch cells.
+
+&nbsp;
+
+<strong><u>SPECIFICATION:</u></strong>
+
+&nbsp;
+<ul>
+ 	<li>Type: Nickel plated Copper tab</li>
+ 	<li>Metal thickness : 200 um</li>
+ 	<li>Adhesive thickness : 100 um</li>
+ 	<li>Adhesive melting point : outer edge about 155 oC and middle 245 oC</li>
+ 	<li>Size and thickness: customisable upon request</li>
+ 	<li>Item: battery welding tabs</li>
+</ul>
+</div>
+</div>
+</section>",,publish,,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2018/04/Nickel-Plated-Copper-Tabs.jpg ! alt : Nickel Plated Copper Tabs ! title : Nickel Plated Copper Tabs ! desc :  ! caption : ",https://cam-energy.com/product/nickel-plated-copper-tabs/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Stainless steel foil",stainless-steel-foil,,5268,"<h2 class=""product-name"" data-hook=""product-title"">Stainless steel foil</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+Ultrathin stainless steel foil roll. Battery grade.
+
+&nbsp;
+
+<strong><u>SPECIFICATION:</u></strong>
+
+&nbsp;
+<ul>
+ 	<li>Thickness : 0.03mm (can be customised to 0.01~2mm)</li>
+ 	<li>Width :100 mm (can be customised to 3.5mm~1550mm)</li>
+ 	<li>Length : 1 m, 3 m, 10 m</li>
+ 	<li>Material : 316 steel</li>
+</ul>
+</div>
+</div>
+</section>",,publish,,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/b841a8_8a5b50324ddb4e7b890d74fdf9b7af70_mv2.jpg ! alt :  ! title : b841a8_8a5b50324ddb4e7b890d74fdf9b7af70_mv2 ! desc :  ! caption : ",https://cam-energy.com/product/stainless-steel-foil/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Nickel Mesh",nickel-mesh-2,,5270,"<h2 class=""product-name"" data-hook=""product-title"">Nickel Mesh</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+NickelmMesh for lithium battery substrate electrode.
+
+&nbsp;
+
+<strong><u>SPECIFICATION:</u></strong>
+
+&nbsp;
+<ul>
+ 	<li>Material : Nickel Mesh, purity ≥99.6%</li>
+ 	<li>Mesh :  100 mesh</li>
+ 	<li>Width : 1000 mm ( can be customised)</li>
+ 	<li>Thickness :  0.14mm</li>
+ 	<li>Pore size  :
+ϕ0.18mm</li>
+</ul>
+</div>
+</div>
+</section>",,publish,,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/462997_98e96d5126034a78bbdafce527110a32_mv2_d_1512_2016_s_2.jpg ! alt :  ! title : 462997_98e96d5126034a78bbdafce527110a32_mv2_d_1512_2016_s_2 ! desc :  ! caption : ",https://cam-energy.com/product/nickel-mesh-2/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Test Clips",test-clips-2,,5277,"<h2 class=""product-name"" data-hook=""product-title"">Test Clips</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+Clips for conncecting batteries to the probes of the 5V/10mA coin cell battery test analyzer.
+
+</div>
+</div>
+</section>",,publish,,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/b841a8_663a47944ba74b0cb4317004b49e9757_mv2.jpg ! alt :  ! title : b841a8_663a47944ba74b0cb4317004b49e9757_mv2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/b841a8_599937969cc640d0b997ba17c374e1eb_mv2.png ! alt :  ! title : b841a8_599937969cc640d0b997ba17c374e1eb_mv2 ! desc :  ! caption : ",https://cam-energy.com/product/test-clips-2/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"5V/50mA Coin Cell Battery Test Analyzer",5v-10ma-coin-cell-battery-test-analyzer-2,,5280,"<h2 class=""product-name"" data-hook=""product-title"">5V/50mA Coin Cell Battery Test Analyzer</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" data-hook=""product-page-description-content-wrapper"">
+
+8 Channel Coin Cell Battery Test Analyzer.
+
+Each channel of the analyzer has independent constant-current and constant-voltage sources, which can be programmed and controlled by computer software.
+
+Can be used in most applications in battery testing field such as electrode material research, battery performance testing, small scale battery formation, capability grading, battery pack testing, etc.
+
+It is suitable for all kinds of coin cell batteries such as lithium battery, NI-MH battery, Zn-Mn watch battery etc.
+
+&nbsp;
+
+<strong><u>SPECIFICATION</u></strong>
+<ul>
+ 	<li><strong>Source voltage :</strong> AC 220V/110V ±10% / 50Hz</li>
+ 	<li><strong>Input impedance : </strong>≥1G Ω</li>
+ 	<li><strong>Input power : </strong>25 W</li>
+ 	<li><strong>Channel characteristics :</strong> Constant current source and voltage source double closed loop independent structure</li>
+ 	<li><strong>Channel control mode :</strong> Independent control</li>
+ 	<li><strong>Voltage range per channel :</strong> Charge : 25mV-5V, Minimum discharge volatage: -5V, Accuracy :± 0.05% of FS, stability:± 0.05% of FS</li>
+ 	<li><strong><strong>Current:  </strong></strong>Range per channel: Range1: 5μA-1mA; Range2: 1mA-25mA; Range3: 25mA-50mA,<b></b> Accuracy : ± 0.05% of FS, CV Cut-off current: Range1: 2μA; Range2: 50μA; Range3: 100μA, Stability:± 0.05% of FS</li>
+ 	<li><strong>Output power per channel :</strong> 0.25W</li>
+ 	<li><strong>Current response time :</strong> <span lang=""JA"" style=""font-family: SimSun; font-size: small;"">＜</span><span lang=""JA"" style=""font-family: Verdana; font-size: small;"">500μs (10%FS~90%FS)</span></li>
+ 	<li><strong>Step time range : </strong>1s-365*24h, Time format : 00:00:00(H:Min:S)</li>
+ 	<li><strong><strong>Data Record : </strong></strong>Min data record interval:100ms, <span lang=""JA"" style=""font-family: Verdana; font-size: small;"">Min voltage change: 10mV, </span><span lang=""JA"">Min current change</span><span lang=""JA"">: </span><span lang=""JA""><span lang=""JA"">Range1: 2μA; Range2: 50μA;Range3: 100μA, Frequency: 10Hz</span></span></li>
+ 	<li><strong>Charging mode : </strong>Constant current charge, constant voltage charge, constant current and voltage charge</li>
+ 	<li><strong>Discharging mode : </strong>Constant current discharge, constant power discharge</li>
+ 	<li><strong>Conditions of constraint : </strong>Time, voltage, current, capacity</li>
+ 	<li><strong>Cycle range :  </strong>1-65535 times</li>
+ 	<li><strong>Steps per cycle : </strong>254</li>
+ 	<li><strong>Protection </strong>: Power-down data protection, off-line test function and  safety condition setting protection</li>
+ 	<li><strong>Noise :</strong> ≤85dB</li>
+ 	<li><strong>Channel number per unit :</strong> 8</li>
+ 	<li><strong>Dimension(L*W*H) :</strong> 380*330*44mm</li>
+ 	<li><strong>Working temperature/humidity : </strong>0℃-40℃ ≤70%RH</li>
+</ul>
+</div>
+</div>
+</section>",,publish,,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/11/testing_menu_img.jpg ! alt :  ! title : testing_menu_img ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/Mini-Crimper.jpg ! alt :  ! title : Mini Crimper ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/6b6081_113655f564564f1b891b546c8b43e3d1_mv2-1.jpg ! alt :  ! title : 6b6081_113655f564564f1b891b546c8b43e3d1_mv2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/6b6081_113655f564564f1b891b546c8b43e3d1_mv2-2.jpg ! alt :  ! title : 6b6081_113655f564564f1b891b546c8b43e3d1_mv2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/abc.jpg ! alt :  ! title : abc ! desc :  ! caption : ",https://cam-energy.com/product/5v-10ma-coin-cell-battery-test-analyzer-2/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Split Test Cell for Lithium Air Battery Research",split-test-cell-for-lithium-air-battery-research,,5286,"<h2 class=""product-name"" data-hook=""product-title""><strong style=""font-size: 16px;""><u>SPECIFICATION:</u></strong></h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+<ul>
+ 	<li>Structure :Stainless steel structure with internal Silver-Clad surface treatment which ensures high electrical conductivity and good corrosion protection</li>
+ 	<li>Two electrodes design</li>
+ 	<li>Electrolyte corrosive-proof PTFE guide sleeve and sealing O-rings</li>
+ 	<li>Compact design</li>
+ 	<li><strong>Cell Thickness : </strong>1~3mm (cathode separator anode)</li>
+ 	<li><strong>Bottom Recess Area :</strong> 16mm Dia. (The recess area can accommodate electrodes with sizes upto 16mm in diameter)</li>
+ 	<li><strong>Max. Working Temperature :</strong> 250℃</li>
+ 	<li><strong>Valves &amp; Fittings : </strong>Two Stainless Steel needle valves and 1/16"" tube connector are installed on both the gas inlet and outlet</li>
+ 	<li><strong>Warranty :</strong> One Year limited warranty with lifetime support</li>
+ 	<li><strong>Dimensions :</strong> φ80*62mm</li>
+</ul>
+</div>
+</div>
+</section>","The STC-AIR-1 is a split test cell for Lithium Air Battery Research. You can control air flow pressure and easily test various anode and cathode materials.",publish,,,,900,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/lthbtry.jpg ! alt :  ! title : lthbtry ! desc :  ! caption : ",https://cam-energy.com/product/split-test-cell-for-lithium-air-battery-research/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"2 Electrode Split Test Cell for R&amp;D Coin Cell Battery",split-test-cell-for-rd-coin-cell-battery,,5288,"<h2 class=""product-name"" data-hook=""product-title"">Split Test Cell for R&amp;D Coin Cell Battery</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" data-hook=""product-page-description-content-wrapper"">
+<p>The EQ-STC Split Test Cell is used for rechargeable battery and battery electrode materials research. Optional sizes at 10, 12, 15, 19, 20, 24 mm diameter cell.</p>
+<p>&nbsp;</p>
+<p><u><strong>SPECIFICATIONS</strong></u></p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Structure : </strong>Full stainless steel</li>
+<li><strong>Max. Cell Thickness</strong> : 6mm (cathode separator anode)</li>
+<li><strong>Features:</strong>
+<ol>
+<li>A 6mm height spacer inside the test cell to press down on the elecctrode  and prevent the electrode from curling.</li>
+<li>Sealed by electrolyte corrosive-proof PTFE O-rings</li>
+<li>Electrolyte corrosive-proof PTFE guide sleeve capable ofwithstanding temperatures up to 250 ºC.</li>
+<li>Easy to separate after testing</li>
+<li>Small enough to be put in and taken out from a glove box</li>
+<li>Same functionality to ""Coin Cell"" but with more size options for electrode and separator and also the proper dimensions for glove box compatibility</li>
+</ol>
+</li>
+<li><strong>Optional : </strong>10, 12, 15, 19, 20, and 24 mm diameter customized</li>
+<li><strong>Dimensions :</strong>  Φ80mm*80mm</li>
+</ul>
+</div>
+</div>
+</section>
+",,publish,2ESTC-SS,,,435,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/new.jpg ! alt :  ! title : new ! desc :  ! caption : ",https://cam-energy.com/product/split-test-cell-for-rd-coin-cell-battery/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Aluminium | SS304 Stainless Steel",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Three-Electrode Split Test Cell",three-electrode-split-test-cell-2,,5290,"<h2 class=""product-name"" data-hook=""product-title"">Three-Electrode Split Test Cell</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+Three-Electrode Split Test Cell For Reference Electrode Research.
+
+&nbsp;
+
+<u><strong>SPECIFICATIONS:</strong></u>
+<ul>
+ 	<li><strong>Model : </strong>Three-Electrode Split Test Cell 3ESTC15</li>
+ 	<li><strong>Feautures :</strong></li>
+</ul>
+<ol>
+ 	<li>24 mm diameter insert.</li>
+ 	<li>Silicon O-ring in-between the three plates to ensure a good sealing up to a temperature of 250 °C.</li>
+ 	<li>Adjustable spring tension on top to accept various electrode thicknesses.</li>
+ 	<li>Easy to separate after testing</li>
+ 	<li>Small enough to be put into and taken out from a glove box</li>
+</ol>
+<ul>
+ 	<li><strong>Electrode diameter </strong>：24 mm</li>
+</ul>
+</div>
+</div>
+</section>",,publish,,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/6b6081_83f69b377127493b8509648bd2a7011c_mv2.jpg ! alt :  ! title : 6b6081_83f69b377127493b8509648bd2a7011c_mv2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2018/04/three-electrode-split-test-cell.jpg ! alt : three electrode split test cell ! title : three electrode split test cell ! desc :  ! caption : ",https://cam-energy.com/product/three-electrode-split-test-cell-2/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Table-top Automatic Electrode Paste Coater",table-top-automatic-electrode-paste-coater-2,,5301,"<h2 class=""product-name"" data-hook=""product-title"">Table-top Automatic Electrode Paste Coater</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+Designed to produce films with consistent thickness by using micrometer adjustable applicators or fixed thickness applicators. It has an unique driving system to produce smooth coating on all types of materials. One micrometer adjustable applicator is included for immediate use.
+
+<strong>Main Features:</strong>
+<ul>
+ 	<li>Controlled speed and pressure ensures repeatable results.</li>
+ 	<li>Coating by wire wound bars or gap applicators.</li>
+ 	<li>Two models offer coating areas of up to 170 x 250mm or 325 x 250mm.</li>
+ 	<li>Multiple coatings in one operation for comparison purposes.</li>
+ 	<li>Standard coating speeds infinitely variable between 2 and 15m/min.</li>
+</ul>
+</div>
+</div>
+</section>",,publish,,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/top.png ! alt :  ! title : top ! desc :  ! caption : ",https://cam-energy.com/product/table-top-automatic-electrode-paste-coater-2/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Electric Crimping Machine",electric-crimping-machine,,5305,"<h2 class=""product-name"" data-hook=""product-title"">Electric Crimping Machine</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+<strong><u>SPECIFICATION:</u></strong>
+<ul>
+ 	<li><strong>Source voltage :</strong> AC 220V-110V, 50HZ</li>
+ 	<li><strong>Power : </strong>120W</li>
+ 	<li><strong>Warranty</strong> <strong>:</strong> One year limited warranty with lifetime support</li>
+ 	<li><strong>Die Set &amp; Compatibility : </strong>Assembling dies for CR2016, CR2025 &amp; CR2032 coin cells (Optional: Crimping die for CR2450 coin cell is available upon request).</li>
+ 	<li><strong>Assembling Pressure :</strong> Recommended assembling pressure for CR20XX coin cells is about 100kg/cm2. The maximum pressure that can be applied is up to 200kg/cm2, up to 8T</li>
+ 	<li><strong>Measurement Accuracy :</strong> ±0.5%FS</li>
+ 	<li><strong>Product Dimensions :</strong> 385*160*325mm</li>
+ 	<li><strong>Weight :</strong> About 40kg</li>
+ 	<li><strong>Application Notes :</strong> Electrolytes are highly corrosive materials and therefore, the dies must be cleaned with alcohol after each use to avoid corrosion and deformation</li>
+</ul>
+</div>
+</div>
+</section>","Automatic electric crimping machine for  various types of coin cells, such as CR2016, CR2025 and CR2032. It is an ideal tool for operating both inside and outside of a glove box.  The pressure applied on coin cells is adjustable to meet various sealing requirements. Possibility of finishing work with dry powder/wet powder press sheet for electrode forming, using a different die.",publish,ECR-01,,,2650,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2018/04/electric-crimper-scaled.jpg ! alt :  ! title : electric crimper ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2018/04/WeChat-Image_20200521124319-scaled.jpg ! alt :  ! title : ElectricCrimper2 ! desc :  ! caption : ",https://cam-energy.com/product/electric-crimping-machine/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Powder Compacting Hydraulic Press Machine",powder-compacting-hydraulic-press-machine,,5307,"<h2 class=""product-name"" data-hook=""product-title"">Powder Compacting Hydraulic Press Machine</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+Powder Compacting Hydraulic Press Machine For Lab Research.
+
+&nbsp;
+
+<u><strong>SPECIFICATIONS</strong></u>
+
+&nbsp;
+
+Manual type powder compacting hydraulic press machine is used for medicine and chemical powder sheet preparation. The press diameter is between 6mm-60mm. Practical in food, medical, chemical, ceramics and other industries. It is an ideal equipment for the laboratory to do scientific research in enterprises, colleges and universities.
+
+For lithium battery, it is used for pressing the powder materials as electrode for battery or supercapacitor research.
+
+&nbsp;
+<table>
+<tbody>
+<tr>
+<td>Max. Pressure</td>
+<td>5T/10T can be customized</td>
+</tr>
+<tr>
+<td>Max. working stroke</td>
+<td>125mm/140mm</td>
+</tr>
+<tr>
+<td>Dimension</td>
+<td>220*160*370mm</td>
+</tr>
+<tr>
+<td>Weight</td>
+<td>20kg</td>
+</tr>
+<tr>
+<td>Die materials</td>
+<td>Stainless steel or Cr steel</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</section><section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper""></div>
+</section>",,publish,,,,1900,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/6b6081_948259541d3543c897b4dd84c145782d_mv2.jpg ! alt :  ! title : 6b6081_948259541d3543c897b4dd84c145782d_mv2 ! desc :  ! caption : ",https://cam-energy.com/product/powder-compacting-hydraulic-press-machine/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"2S/3S Battery Holder For 18650/26650 Pack",2s-3s-battery-holder-for-18650-26650-pack-2,,5311,"<h2 class=""product-name"" data-hook=""product-title"">2S/3S Battery Holder For 18650/26650 Pack</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+2S/3S Battery Holder For 18650/26650 E-Bike Battery Pack
+
+&nbsp;
+<ol>
+ 	<li> 18650/26650 cylindrical battery holder adopts flame retardant ABS VO grade raw material, install the battery hole aperture is about 18.2mm for 18650 battery and 26.2mm for 26650 battery.</li>
+ 	<li>We can supply both 2 series and 3 series structures. Suitable for EV electric vehicle battery combination.</li>
+ 	<li>Easier spot welding with battery holder to fix the battery pack.</li>
+</ol>
+</div>
+</div>
+</section>",,publish,,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2018/04/2S3S-Battery-Holder-For-Pack.jpg ! alt :  ! title : 2S3S-Battery-Holder-For-Pack ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/b841a8_76a46557355948a1bfc7bfd57a0ea51e_mv2-1.png ! alt :  ! title : b841a8_76a46557355948a1bfc7bfd57a0ea51e_mv2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/b841a8_a8482a5ff8884e15acac33ca6c0267ed_mv2.jpg ! alt :  ! title : b841a8_a8482a5ff8884e15acac33ca6c0267ed_mv2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/b841a8_39adb6205ceb4a948a7abd55eed0a0bd_mv2.png ! alt :  ! title : b841a8_39adb6205ceb4a948a7abd55eed0a0bd_mv2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/b841a8_bf62f514719b49fe8b837419cdc282e4_mv2.png ! alt :  ! title : b841a8_bf62f514719b49fe8b837419cdc282e4_mv2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/b841a8_08ec6c280f7543da87a8e4f265e6d17c_mv2-1.png ! alt :  ! title : b841a8_08ec6c280f7543da87a8e4f265e6d17c_mv2 ! desc :  ! caption : ",https://cam-energy.com/product/2s-3s-battery-holder-for-18650-26650-pack-2/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"26650 cylinder battery case",26650-cylinder-battery-case-2,,5318,"<h2 class=""product-name"" data-hook=""product-title"">26650 cylinder battery case</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" data-hook=""product-page-description-content-wrapper"">
+<p>26650 Cylinder Cell Case with Anti-Explosive Cap and Insulation O-ring.</p>
+<p>50 pcs/bag</p>
+<p><u><strong>SPECIFICATIONS:</strong></u></p>
+<ul>
+<li>26650 Battery Case Dimensions (Diameter x Thickness x Height) : 26 mm (D) x 0.25 mm (T) x 67 mm (H)</li>
+</ul>
+<ol>
+<li> <strong>Top Cap :</strong>
+<ul>
+<li>Dimensions : 17.5m (D) x 4.05 mm (H)</li>
+<li>Safety valve's open pressure: 2.5 MPa  (The cap valve will open to release interior high pressure if over 2.5 MPa to ensure the can doesn't explode)</li>
+</ul>
+</li>
+<li><strong>Top Insulator</strong> : Dimensions: 16.1 mm (D) x 2.6 m (T)​​​​​​​</li>
+<li><strong>Other </strong>: aluminum spacers   sealing O-rings</li>
+</ol>
+<p>&nbsp;</p>
+</div>
+</div>
+</section>
+",,publish,26650F,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/b841a8_0d01d03d14674b81a143f73d3dab0c52_mv2.png ! alt :  ! title : b841a8_0d01d03d14674b81a143f73d3dab0c52_mv2 ! desc :  ! caption : ",https://cam-energy.com/product/26650-cylinder-battery-case-2/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Coin Cell Electrode Disc Cutter",coin-cell-electrode-disc-cutter,,5322,"<h2 class=""product-name"" data-hook=""product-title"">Coin Cell Electrode Disc Cutter</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+<u><strong>SPECIFICATIONS</strong></u>
+
+The Coin cell disc cutter machine is used for coin cell electrode punching with customized cutting die. It's operation is simple with light weight,  The resulting discs can be used as electrode/separator discs of split test cell and coin cell for battery research.
+<table style=""height: 1174px;"" width=""627"">
+<tbody>
+<tr>
+<td>Machine model</td>
+<td>Disc cutter for coin cell electrode punch  CES-CP60</td>
+</tr>
+<tr>
+<td>Operation</td>
+<td>Manual</td>
+</tr>
+<tr>
+<td>Punching size</td>
+<td>φ8-24mm can be chosen</td>
+</tr>
+<tr>
+<td>Application Notes</td>
+<td>To make CR2016, CR2025 or/and CR2032 coin cell batteries, we will need at least three cutting dies:
+
+A 15mm (for negative side case, which is 16.5mm in diameter)
+
+B 19mm (for positive side case, which is 20mm in diameter)
+
+C 20 mm (for separator to completely separate the electrodes)
+
+For CR2450 coin cell:
+
+20mm cutting die can be used for cutting electrode discs and the  24mm cutting die for either electrode or separator disc.</td>
+</tr>
+<tr>
+<td>Punching stroke</td>
+<td>25mm</td>
+</tr>
+<tr>
+<td>Punching thickness</td>
+<td>0.005-0.5mm electrode and separator</td>
+</tr>
+<tr>
+<td>Advantages</td>
+<td>Simple operation
+
+Light weight
+
+Can cut both  the electrode and separator (Please specify on comments as separator die is slightly different)</td>
+</tr>
+<tr>
+<td>Dimension</td>
+<td>110*150*235mm</td>
+</tr>
+<tr>
+<td>Weight</td>
+<td>About 6kg</td>
+</tr>
+<tr>
+<td>Warranty</td>
+<td>One Year limited warranty with lifetime support</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</section>","Precision disc cutter with standard and customized punching dies of diameters from 8mm to 24mm used for cutting electrodes and separators for coin cell production in lab research. Comes with single die as standard, other dies available on request.",publish,CES-CP60,,,1200,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/6b6081_ad06e3c874cd4247a58b8f95db73e401_mv2-1.jpg ! alt :  ! title : 6b6081_ad06e3c874cd4247a58b8f95db73e401_mv2 ! desc :  ! caption : ",https://cam-energy.com/product/coin-cell-electrode-disc-cutter/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,"12mm | 15mm | 16mm | 18mm | 19mm | 20mm",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Coin Cell Crimper",coin-cell-crimper,,5324,"<h2 class=""product-name"" data-hook=""product-title"">Coin Cell Crimper</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+Compact Hydraulic Coin Cell Crimper Machine with lighter weight. The crimper is suitable for sealing various types of coin cells such as CR2032,CR2025,and CR2016 with adjustable sealing line and without changing the die. It can also crimp CR2325, CR2450, AG3, AG5 and other special size cases with optional die sets.
+
+In addition, customers can easily replace the original die with a disassembling die (optional).
+
+Given its small size, it can be operated inside a glove box.
+
+</div>
+</div>
+</section>",,publish,CR-01,,,1895,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2018/04/2021-02-06-at-14.28.22.jpeg ! alt :  ! title : Coin cell crimper ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2018/04/20200525_191751-scaled.jpg ! alt :  ! title : Coin Cell Crimper 2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2018/04/20200525_191825-scaled.jpg ! alt :  ! title : Crimping Die ! desc :  ! caption : ",https://cam-energy.com/product/coin-cell-crimper/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Lithium Metal Punching Tool",lithium-metal-punching-tool-2,,5328,"<h2 class=""product-name"" data-hook=""product-title"">Lithium Metal Punching Tool</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+This is a punching tool for the hyperactive lithium metal used as a cathode.  It has a plastic die in order to avoid fire.
+
+&nbsp;
+
+<u><strong>SPECIFICATION:</strong></u>
+<ul>
+ 	<li>Model No. : KTE-20L-A</li>
+ 	<li>Dimensions: 125 mm (W) x 150 mm (D) x 195 mm (H)</li>
+ 	<li>Weight : approximately 3 kg</li>
+ 	<li>Punching Shape : 2032 coin cell size ∅ 16 mm</li>
+ 	<li>Japanese product. Available in various shapes such as round/doughnut/square</li>
+</ul>
+&nbsp;
+
+<u><strong>Instructions for Operation:</strong></u>
+
+&nbsp;
+<ol>
+ 	<li>Place the lithium metal on a nonactive material such as a polypropylene plate.</li>
+ 	<li>Place the lithium metal that needs to be cut on the lower die.</li>
+ 	<li>Push down the lever until the gap between the upper and lower dies is the same as the lithium metal (don’t push down too far to avoid burrs deformations)</li>
+ 	<li>Push down the lever completely after turning over the punching tool.</li>
+ 	<li>Pick up the lithium metal on the bottom of the tool.</li>
+</ol>
+&nbsp;
+
+<u><strong>Caution:</strong></u>
+
+Please be careful when handling the hyperactive lithium metal. It may catch fire very easily.
+
+</div>
+</div>
+</section>",,publish,,,,2900,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/b841a8_5fae8d9ff0fd4fb4949f0a9c8b95bc91_mv2.jpg ! alt :  ! title : b841a8_5fae8d9ff0fd4fb4949f0a9c8b95bc91_mv2 ! desc :  ! caption : ",https://cam-energy.com/product/lithium-metal-punching-tool-2/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Laminated Cell Holder",laminated-cell-holder-3,,5330,"<h2 class=""product-name"" data-hook=""product-title"">Laminated Cell Holder</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+It is a setup tool for laminated cells when connecting with measuring instruments such as the charge-discharge instrument. The holders are designed to fit into homothermal chambers based on the cell size and the chamber size.
+
+</div>
+</div>
+</section>",,publish,,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2018/04/Laminated-Cell-Holder.jpg ! alt : Laminated Cell Holder ! title : Laminated Cell Holder ! desc :  ! caption : ",https://cam-energy.com/product/laminated-cell-holder-3/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Pneumatic Crimping Machine for Cylindrical Cells",pneumatic-crimping-machine-for-cylindrical-cells,,5334,"<h2 class=""product-name"" data-hook=""product-title"">Summary of equipment characteristics</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<ul>
+ 	<li>It is mainly used in the sample production of laboratory battery material research
+and development for the scientific research and sealing of cylindrical batteries and
+cylindrical capacitors, and can also be used for small batch trial production in factories.</li>
+ 	<li>Various size molds are available as options.</li>
+ 	<li>Suitable for use in glove box and can be passed via ante-chamber.</li>
+ 	<li>It is small in size and easy to operate</li>
+ 	<li>Stable sealing performance: Precise mold design</li>
+ 	<li>built-in pressure gauge for accurately controlling the sealing pressure</li>
+ 	<li>Pneumatic high-pressure drive: no vibration and and hence highly reduced leakage possibility</li>
+ 	<li>Easy, low maintenance</li>
+</ul>
+Note a hydraullic version is also available.
+
+</div>
+</section>","Compact pneumatic crimper. Seals all types of battery cylinder cases. Compact and simple to operate. Pneumatic and electronically operated, suitable for clean environments.",publish,CES-CC50P,,,3450,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2018/04/Pneumatic-crimper.png ! alt :  ! title : Pneumatic crimper ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2018/04/Pneumatic-crimper-size.png ! alt :  ! title : Pneumatic crimper size ! desc :  ! caption : ",https://cam-energy.com/product/pneumatic-crimping-machine-for-cylindrical-cells/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Electrolyte Filling &amp; Vacuum Sealer",electrolyte-filling-vacuum-sealer-2,,5346,"<h2 class=""product-name"" data-hook=""product-title"">Electrolyte Filling &amp; Vacuum Sealer</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" data-hook=""product-page-description-content-wrapper"">
+<p>This machine “VD1000A” fills the electrolyte into the batteries and capacitors under vacuumed atmosphere. It is a filling equipment for laminate cells. It is designed for the glove BOX and the dry room.</p>
+<p>&nbsp;</p>
+<p><u>SPECIFICATIONS:</u></p>
+<p>&nbsp;</p>
+<ul>
+<li>Model No. VD1000A</li>
+<li>Dimensions: 150 mm (W) x 350 mm (D) x 200 mm (H)</li>
+<li>Weight : approximately 12 kg</li>
+<li>Material : SUS304</li>
+<li>Standard work : 2032, 2016 as required</li>
+<li>Push out pin : to push out the work with pin</li>
+<li>Japanese product</li>
+</ul>
+</div>
+</div>
+</section>
+",,publish,,,,41500,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2018/04/Electrolyte-Filling-Vacuum-Sealer.jpg ! alt : Electrolyte Filling & Vacuum Sealer ! title : Electrolyte-Filling-Vacuum-Sealer ! desc :  ! caption : ",https://cam-energy.com/product/electrolyte-filling-vacuum-sealer-2/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Hand Operated Coin Cell Crimper",hand-operated-coin-cell-crimper-2,,5357,"<h2 class=""product-name"" data-hook=""product-title"">Hand Operated Coin Cell Crimper</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+This equipment is a manually operated coin cell crimper. It has a compact body and can be operated in a glove box.
+
+&nbsp;
+
+<u><strong>SPECIFICATION:</strong></u>
+
+&nbsp;
+<ul>
+ 	<li>Model No. KTE-10S-D</li>
+ 	<li>Dimensions: 150 mm (W) x 350 mm (D) x 200 mm (H)</li>
+ 	<li>Weight : approximately 12 kg</li>
+ 	<li>Material : SUS304</li>
+ 	<li>Standard work : 2032, 2016 as required</li>
+ 	<li>Push out pin : to push out the work with pin</li>
+ 	<li>Japanese product</li>
+</ul>
+</div>
+</div>
+</section>",,publish,KTE-10S-D,,,6700,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/b841a8_12ade35ed159416caafd5efaa55d4c01_mv2-1.jpg ! alt :  ! title : b841a8_12ade35ed159416caafd5efaa55d4c01_mv2 ! desc :  ! caption : ",https://cam-energy.com/product/hand-operated-coin-cell-crimper-2/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Four Terminal Coin Cell Holder",four-terminal-coin-cell-holder-2,,5359,"<h2 class=""product-name"" data-hook=""product-title"">Four Terminal Coin Cell Holder</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+It is a setup tool for coin cells when connecting with measuring instruments such as the charge-discharge instrument. It is equipped with coaxial contact probes.
+
+&nbsp;
+
+<u><strong>SPECIFICATION</strong></u>:
+
+&nbsp;
+<ul>
+ 	<li>Model No. EG-CCH-2X8-16CH</li>
+ 	<li>Holder size : ∅ 21 mm</li>
+ 	<li>Upper terminals : 2 terminals, coaxial probe gold plated</li>
+ 	<li>Lower terminals : 2 terminals, 8 channels, total 16 terminals</li>
+ 	<li>Bottom plate : stainless steel</li>
+ 	<li>Max. temperature : 95°C</li>
+ 	<li>Dimensions: 270 mm (W) x 135 mm (D) x 54 mm (H)</li>
+ 	<li>Weight : approximately 1 kg</li>
+ 	<li>Japanese product</li>
+</ul>
+</div>
+</div>
+</section>",,publish,,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2018/04/Four-Terminal-Coin-Cell-Holder.jpg ! alt : Four Terminal Coin Cell Holder ! title : Four-Terminal-Coin-Cell-Holder ! desc :  ! caption : ",https://cam-energy.com/product/four-terminal-coin-cell-holder-2/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Automatic Coin Cell Crimper",automatic-coin-cell-crimper,,5372,"<h2 class=""product-name"" data-hook=""product-title"">Automatic Coin Cell Crimper</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+An automatic coin cell crimper with a compact body and can be operated in a glove box.
+
+&nbsp;
+
+<u><strong>SPECIFICATION</strong></u>:
+
+&nbsp;
+<ul>
+ 	<li>Model No. KTE-20S-D</li>
+ 	<li>Dimensions: 185 mm (W) x 245 mm (D) x 300 mm (H)</li>
+ 	<li>Weight : approximately 17 kg</li>
+ 	<li>Pressing Force: Max. 720 kgf</li>
+ 	<li>Standard work : CR2032</li>
+ 	<li>Power Supply : AC100V</li>
+ 	<li>Japanese product</li>
+</ul>
+&nbsp;
+
+Interlock : If the safety cover is opened during crimping operation or the stop button is pressed, all the work will be suspended. Push the start button to release the suspending and return to the start postilion.
+
+</div>
+</div>
+</section>",,publish,,,,15525,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/b841a8_79df246f51fd45f7b0325f18cc72fe87_mv2-1.png ! alt :  ! title : b841a8_79df246f51fd45f7b0325f18cc72fe87_mv2 ! desc :  ! caption : ",https://cam-energy.com/product/automatic-coin-cell-crimper/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Aluminium Foam",aluminium-foam,,5383,"<h2 class=""product-name"" data-hook=""product-title"">Aluminium Foam</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+Aluminum Foam offers a compelling range of innovative materials solution
+
+</div>
+</div>
+</section>",,publish,,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2018/04/Aluminium-Foam.jpg ! alt :  ! title : Aluminium-Foam ! desc :  ! caption : ",https://cam-energy.com/product/aluminium-foam/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"18650 Cylinder Cell Case With Anti-Explosive Cap And Insulation O-Ring",18650-cylinder-cell-case-with-anti-explosive-cap-and-insulation-o-ring-2,,5385,"<h2 class=""product-name"" data-hook=""product-title"">18650 Cylinder Cell Case With Anti-Explosive Cap And Insulation O-Ring</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" data-hook=""product-page-description-content-wrapper"">
+<p><strong>SPECIFICATIONS:</strong></p>
+<ul>
+<li>Cap : Cap with Built-in PTC Thermistor</li>
+<li>Dimensions  (Diameter x Height) :</li>
+</ul>
+<ul>
+<li>
+<ul>
+<li>Case: 18 mm(OD) x 17.5 mm(ID) x 67 mm(H)</li>
+<li>Top Cap: 17.5 mm(D) x 4.05 mm(H)</li>
+<li>Top Insulator: 12.5 mm(D) x 0.19 mm(H)</li>
+<li>Bottom Insulator: 12.5 mm(D) x 0.19 mm(H)</li>
+</ul>
+</li>
+<li>Materials :
+<ul>
+<li>Case and cap are made of Nickel plated A3 steel</li>
+<li>Seal O-ring and spacer are made of nylon</li>
+</ul>
+</li>
+<li>Weight : 9.50 g/pcs</li>
+</ul>
+<p>Please note that the safety valve’s open pressure is 2.5 MPa (the cap valve will open to release interior high pressure, if  it is over 2.5 MPa, to ensure that the can does not explode)</p>
+</div>
+</div>
+</section>
+",,publish,18650F,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/b841a8_a1686496e093449780e52354c74808b0mv2.png ! alt :  ! title : b841a8_a1686496e093449780e52354c74808b0~mv2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/b841a8_0d01d03d14674b81a143f73d3dab0c52_mv2.png ! alt :  ! title : b841a8_0d01d03d14674b81a143f73d3dab0c52_mv2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/b841a8_a1686496e093449780e52354c74808b0_mv2.png ! alt :  ! title : b841a8_a1686496e093449780e52354c74808b0_mv2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/b841a8_a1686496e093449780e52354c74808b0_mv2-1.png ! alt :  ! title : b841a8_a1686496e093449780e52354c74808b0_mv2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/newcell.png ! alt :  ! title : newcell ! desc :  ! caption : ",https://cam-energy.com/product/18650-cylinder-cell-case-with-anti-explosive-cap-and-insulation-o-ring-2/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Aluminium Laminated Film For Pouch Cell Case",aluminium-laminated-film-for-pouch-cell-case,,5390,"<h2 class=""product-name"" data-hook=""product-title"">Aluminium Laminated Film For Pouch Cell Case</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+DNP (Japan) Aluminium laminated film for using as the casing material for polymer Lithium-ion batteries.
+
+<u><strong>SPECIFICATION:</strong></u>
+<ul>
+ 	<li>Dimensions (Width x Length) :   400 mm x 12.5 m</li>
+ 	<li>Surface Quality : Matt finish</li>
+ 	<li>Pinholes: Subject to the applicable aluminium foil standard</li>
+ 	<li>Impurity : 1 mm or less in diameter</li>
+ 	<li>Layers from outside (shiny) to inside (matt):
+<ul>
+ 	<li>Polyamide (JIS Z1714)</li>
+ 	<li>Adhesive (Polyester-polyurethane)</li>
+ 	<li>Aluminum foil (JIS A8079, A8021)</li>
+ 	<li>Adhesive (Urethane-free Adhesive)</li>
+ 	<li>Polypropylene</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</section>",,publish,,,,185,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/b841a8_e9a5a2ecdb6549c6acac33a6b6c3e14dmv2.jpg ! alt :  ! title : b841a8_e9a5a2ecdb6549c6acac33a6b6c3e14d~mv2 ! desc :  ! caption : ",https://cam-energy.com/product/aluminium-laminated-film-for-pouch-cell-case/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"75um | 88um | 113um | 153um",0|1|0,,,,,,,,,,,,,,,,,,,,,,
+"High purity Silver foil",high-purity-silver-foil,,5392,"<div class=""product-details"" data-hook=""product-details"">
+<h2 class=""product-name"" data-hook=""product-title"">High purity Silver foil</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+<strong><u>SPECIFICATION:</u></strong>
+
+&nbsp;
+<ul>
+ 	<li>Thickness : 0.1 mm (can be customised)</li>
+ 	<li>Width : 100 mm (can be customised to 5~200mm)</li>
+ 	<li>Purity : &gt; 99%</li>
+</ul>
+</div>
+</div>
+</section></div>",,publish,,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2018/04/High-purity-Silver-foil.jpg ! alt :  ! title : High-purity-Silver-foil ! desc :  ! caption : ",https://cam-energy.com/product/high-purity-silver-foil/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Precision Disc Cutter",precision-disc-cutter-2,,5394,"<h2 class=""product-name"" data-hook=""product-title"">Precision Disc Cutter</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+<ul>
+ 	<li>209mm (L) x 120mm (W) x 394mm (H)</li>
+ 	<li>Compact size which can be put into glovebox through airlock chamber</li>
+</ul>
+If you are going to make CR2016, CR2025 or/and CR2032 coin cell batteries, you will need at least three cutting dies:
+<ul>
+ 	<li>16mm (for negative side case, which is 16.5mm in diameter)</li>
+ 	<li>19mm (for positive side case, which is 20mm in diameter)</li>
+ 	<li>20 mm (for the separator to fully separate the electrodes in both negative and positive cases)</li>
+</ul>
+For CR2450 coin cells, a 20mm cutting die can be used for cutting electrode discs and the 24mm cutting die can be used for cutting either electrode discs or separator discs (the 24mm cutting die can be purchased as an optional die)
+
+Separator discs must be large enough to fully separate the positive and negative electrodes to avoid short-circuit inside the coin cells
+
+</div>
+</div>
+</section>","<strong>Precision Disc Cutter with Standard 16, 19, 20 Dia. Cutting Dies</strong>
+
+This is a compact disc cutter with quality sliding rail with ball bearing for precision cutting. It can be easily placed into a glove box with a transition chamber diameter larger than 230mm. This tool is manually operated and is designed for cutting round discs from thin metal sheet/foil (&lt; 0.5 mm) or separator film (&lt;30um).  The resulting discs can be used as electrode/separator discs of split test cell and coin cell for battery research.",publish,,,,2150,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/b841a8_495e9edcd8dc427fb84b506f402f0c50_mv2-1.jpg ! alt :  ! title : b841a8_495e9edcd8dc427fb84b506f402f0c50_mv2 ! desc :  ! caption : ",https://cam-energy.com/product/precision-disc-cutter-2/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Styrene-Butadiene Rubber (SBR) Binder",styrene-butadiene-rubber-sbr-binder,,5606,"&nbsp;
+
+<u><span style=""color: #000000; font-family: Arial;"">Specifications: </span></u>
+<ul>
+ 	<li><strong>Appearance</strong>: Milky white liquid with light blue gloss</li>
+ 	<li><strong>Solid content:</strong> 48-49%</li>
+ 	<li><strong>Styrene:</strong> 23-25%</li>
+ 	<li><strong>Butadeine:</strong> 70-72%</li>
+ 	<li><strong>Carboxyl:</strong> 5%</li>
+ 	<li><strong>PH:</strong> 4.5-6.5</li>
+ 	<li><strong>Viscosity:</strong> (NJD-5S,25 degrees Centigrade) 20-250 mPa</li>
+ 	<li><strong>Storage temperature:</strong> 0-38 <span style=""color: #333333; font-family: 'Times New Roman',serif;"">℃</span></li>
+ 	<li><strong>Solubility:</strong> Water soluble</li>
+ 	<li>Emulsion Form</li>
+</ul>
+<img src=""http://img.wezhan.cn/content/sitefiles/50965/images/8057779_Unlock-SBR产品介绍-3.jpeg"" alt=""NIPPON A&amp;L 锂电池粘合剂（水性）SBR SN-307R-友洽（上海）国际贸易有限公司官网"" />","SBR is a water based binder which is mainly used to prepare anode electrode for Lithium-ion batteries. Such binder is characterized by strong adhesion and high ageing-retardant.",publish,SBR-SN-307R,,,140,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/04/SBR.jpg ! alt :  ! title : SBR ! desc :  ! caption : ",https://cam-energy.com/product/styrene-butadiene-rubber-sbr-binder/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Mini Coin Cell Crimper CR-03",mini-coin-cell-crimper,,5618,"Compact coin cell crimper
+<ul>
+ 	<li><strong>Purely  Manual</strong>
+Human power only, no electricity or compressed air required.</li>
+ 	<li> <strong>Hydraulic Actuation</strong>
+Huge press force(5 Tons) and smooth compress process makes the crimping work easily and
+with a perfectly crimped curve.</li>
+ 	<li><strong>Quick Mold Switching</strong>
+Crimping mold is just put on platform freely without any fastener, making it very simple to
+load and unload the mold. Even different sizes of cells can be crimped quickly just changing their respective molds.</li>
+ 	<li><strong>Very Small Size</strong>
+Whole device is compact and small, ideal for space tight glove box operation.</li>
+</ul>
+<strong>OPERATION</strong>
+Each mold includes 2 parts, the core and the cavity, as shown in the figures. Firstly we put the cell elements into the cavity mold, then add on the core to finish the preparation. This combination is then put onto the platform, and the hydraulic jack levered slightly till the mold touches the upper plate. You will feel a resistance here because the cell’s case is going to be crimped inside the mold. Continue crimping until it can’t be squeezed any more, release the jack, take out the mold and open it, you will find a crimped coin cell.
+
+<strong>SPECIFICATION</strong>
+<ul>
+ 	<li>Dimension 155W x 110D x 195H mm</li>
+ 	<li>Weight: 8Kg</li>
+ 	<li>Press force: 5 Tons</li>
+ 	<li>Material
+<ul>
+ 	<li>Frame: Stainless Steel (SUS 304)</li>
+ 	<li>Bottle Jack: Carbon Steel, paint finish</li>
+ 	<li>Mold: Carbon Steel For Mold (SKD11)</li>
+</ul>
+</li>
+</ul>
+&nbsp;
+
+[video width=""640"" height=""480"" mp4=""https://cam-energy.com/wp-content/uploads/2020/05/cr02_crimper_usage.mp4""][/video]
+
+&nbsp;","CR-03 is an innovative hydraulic crimping device for coin cells and button cells. The high force hydraulic jack results in light handling for the operator.
+
+The key advantage of this design is its small size and the free mold which makes is easier to use than any other tool. The crimping mold is not fixed on the press with any fastener, it is simply taken out and placed which makes it incredibly simple to remove and replace the die, as well as easier to load the coin cell onto the die.",publish,CR-02,,,1625,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/WhatsApp-Image-2021-02-06-at-14.32.32.jpeg ! alt :  ! title : Mini Crimper CR-03 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/mini-crimper-diagram.png ! alt :  ! title : mini crimper diagram ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/WhatsApp-Image-2021-02-06-at-14.47.53.jpeg ! alt :  ! title : MiniCrimper die ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2020/05/Mini-crimper-die.jpeg ! alt :  ! title : Mini crimper die ! desc :  ! caption : ",https://cam-energy.com/product/mini-coin-cell-crimper/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Two terminal coin cell testing board",2-terminal-coin-cell-testing-board,,5622,,,publish,,,,180,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/2-terminal-coin-cell-testing-board.jpg ! alt :  ! title : 2 terminal coin cell testing board ! desc :  ! caption : ",https://cam-energy.com/product/2-terminal-coin-cell-testing-board/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"800w Digital Ultrasonic Welder",800w-digital-ultrasonic-welder,,5624,"<span style=""color: #333333; line-height: 150%; font-family: 'Georgia',serif; font-size: 14pt;"">Desk-top 800w ultrasonic metal welder with touch-screen digital controller, 40KHz</span><span style=""color: #333333; font-family: 'Georgia',serif;""> CES 800w.</span>
+
+CE certified ultrasonic metal welder with colour touch-screen controller. Designed for welding stacked electrode sheets (copper and Aluminium) and tabs onto current collectors to prepare Li-ion pouch cells in R&amp;D laboratories.
+
+<u>Specification: </u>
+<ul>
+ 	<li>Adjustable Welding time, delay time and welding layers.</li>
+ 	<li>Pre-set welding programmes selectable for AL and Cu (welding power can be readjusted to fit the needs for welding other types of metal including Au, Fe, Ni, Ag.</li>
+ 	<li>Up to four combinations can be stored in the Al or Cu welding programmes.</li>
+ 	<li>Amp meter provides instant monitoring of the welding current.</li>
+</ul>
+&nbsp;
+
+Nickel and Aluminum Tabs can be welded onto different types of current collecting substrates (Aluminum or Copper) when making battery electrodes.
+
+The 800D-UW standard version ultrasonic welder can't be used in the Ar gas condition because electric arc occurs during the process. Use N2 gas if needed. A modified version is available on request which is suitable for AR gas operation. Please get in touch should that be necessary.","CE certified digital ultrasonic metal welder with colour touch-screen controller. Designed for welding stacked electrode sheets (copper and Aluminium) and tabs onto current collectors to prepare Li-ion pouch cells in R&amp;D laboratories.",publish,CES-800D-UW,,,13800,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2020/05/800w-Digital-Ultrasonic-Welder.png ! alt :  ! title : 800w Digital Ultrasonic Welder ! desc :  ! caption : ",https://cam-energy.com/product/800w-digital-ultrasonic-welder/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"K303 Multicoater",k303-multicoater,,6229,"<h2 class=""product-name"" data-hook=""product-title"">Table-top Automatic Electrode Paste Coater</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+<strong>Main Features:</strong>
+<ul>
+ 	<li><strong>Easily repeatable samples</strong></li>
+ 	<li><strong>Interchangeable heads</strong></li>
+ 	<li><strong>Multiple coatings simultaneously for comparison</strong></li>
+ 	<li><strong>Maximum coating area 350 x 440mm (meter bar coating head)</strong></li>
+ 	<li><strong>Coating speed 1 - 39m/min</strong></li>
+</ul>
+</div>
+</div>
+</section><img class=""alignnone size-medium wp-image-6230"" src=""https://cam-energy.com/wp-content/uploads/2021/02/Coater-257x300.png"" alt="""" width=""257"" height=""300"" />
+
+&nbsp;
+
+&nbsp;","This instrument enables accurate and reproducible prints and coatings to be made using a wide range of products, and many different substrates. The different heads detailed are fully and
+easily interchangeable, providing Gravure and Flexo Printing and Meter Bar coating, giving exceptionally accurate surface coatings and laminations. The smallest differences in products can be
+detected by applying multiple samples adjacent to each other.",publish,K303,,,3700,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2021/02/K303-COATER.png ! alt :  ! title : K303 COATER ! desc :  ! caption : ",https://cam-energy.com/product/k303-multicoater/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Ceramic coated separator",,,6253,,,draft,,,,,,,,,,,no,taxable,,,,,,https://cam-energy.com/?post_type=product&p=6253,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"High Temperature Coin cell case set - 100 pcs pack",high-temperature-coin-cell-set-100-pcs-pack,,6254,"Please note this item is the case only and you will need to add spacer and spring separately if you need them.","2032 Coin cell case set, in which the traditional PP gasket is substituted to allow for higher temperature operation, up to 150ºC.
+
+Suitable for research where higher temperatures are required, such as solid state electrolytes.
+
+Pack of 100 pcs of top and bottom case.",publish,2032-HT,,,195,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2021/03/20201007_155051-scaled.jpg ! alt :  ! title : High temperature coin cells ! desc :  ! caption : ",https://cam-energy.com/product/high-temperature-coin-cell-set-100-pcs-pack/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Manual disc puncher",manual-disc-puncher,,6285,"Magnetic head allows for easy replacement of cutting disc to different diameters.
+
+[video width=""368"" height=""640"" mp4=""https://cam-energy.com/wp-content/uploads/2021/03/2a3520a9432eca9c32c5e631f7481c95.mp4""][/video]
+
+&nbsp;
+
+&nbsp;","Manual, convenient disc cutter tool. Alternative to disc punchers.",publish,CES-MCT-01,,,220,,,,,,,no,taxable,,6290,,,"https://cam-energy.com/wp-content/uploads/2021/03/Manual-disc-cutter2.png ! alt :  ! title : Manual disc cutter2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2021/03/Manual-disc-cutter3.png ! alt :  ! title : Manual disc cutter3 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2021/03/Manual-disc-cutter.png ! alt :  ! title : Manual disc cutter ! desc :  ! caption : ",https://cam-energy.com/product/manual-disc-puncher/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Cutting disc for Manual disc cutter",cutting-disc-for-manual-disc-cutter,,6290,,,publish,CES-MCT-CD,,,20,,,,,,,no,taxable,,6285,,,"https://cam-energy.com/wp-content/uploads/2021/03/Manual-disc-cutter3.png ! alt :  ! title : Manual disc cutter3 ! desc :  ! caption : ",https://cam-energy.com/product/cutting-disc-for-manual-disc-cutter/,0,,,,,,,,,,,,,,,,,,,,,,"15 | 16 | 18 | 19 | 20",0|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Coin cell spacers - Aluminium",coin-cell-spacers-aluminium,,6408,"Aluminium Coin cell spacers
+","Aluminium coin cell spacers
+0.5mm
+50 pack",publish,AL-SPACER-05,,,25,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2021/03/coin_cell_battery_spacer.png ! alt :  ! title : coin_cell_battery_spacer ! desc :  ! caption : ",https://cam-energy.com/product/coin-cell-spacers-aluminium/,0,,,,,,,,,,,,,,,,,,,,,,,,,"15.8mm x 0.5mm | 15.8mm x 1.0mm",1|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Aluminium clad Coin cell case",aluminium-clad-coin-cell-case,,6414,"2032 coin cell cases clad with aluminium.
+","Aluminium clad coin cell case
+
+50 pack",publish,2032-AL-CLAD,,,125,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2021/03/Al-Clad.jpg ! alt :  ! title : Al Clad coin cells ! desc :  ! caption : ",https://cam-energy.com/product/aluminium-clad-coin-cell-case/,0,,,,,,,,,,,,,,,,,,,,,,,,,"15.8mm x 0.5mm | 15.8mm x 1.0mm",1|1|1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Hohsen coin cell PP gasket",,,6418,,"Pack of 1000 pcs",draft,HOHSEN-PP,,,990,,,,,,,no,taxable,,,,,,https://cam-energy.com/?post_type=product&p=6418,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Hohsen 2032 coin cell 316LSS Full set (case, spacer, wave spring, PP gasket)",hohsen-2032-coin-cell-316lss-full-set-case-spacer-wave-spring-pp-gasket,,6424,,"Pack of 1000 pcs",draft,HOHSEN-PP-1,,,,,,,,,,no,taxable,,,,,,https://cam-energy.com/?post_type=product&p=6424,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Hohsen coin cell wave spring",hohsen-coin-cell-wave-spring,,6429,,"Pack of 1000 pcs",draft,HOHSEN-WS-1,,,550,,,,,,,no,taxable,,,,,,https://cam-energy.com/?post_type=product&p=6429,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.5mm | 1.0mm",0|1|1,,,,,,,,,,,,,,,,,,,,,,
+"Hohsen coin cell Case",hohsen-coin-cell-case,,6432,,"Pack of 1000 pcs",draft,HOHSEN-2032-CASE,,,740,,,,,,,no,taxable,,,,,,https://cam-energy.com/?post_type=product&p=6432,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.5mm | 1.0mm",0|1|1,,,,,,,,,,,,,,,,,,,,,,
+"Hohsen coin cell Cap",hohsen-coin-cell-cap,,6435,,"Pack of 1000 pcs",draft,HOHSEN-2032-CAP,,,780,,,,,,,no,taxable,,,,,,https://cam-energy.com/?post_type=product&p=6435,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.5mm | 1.0mm",0|1|1,,,,,,,,,,,,,,,,,,,,,,
+"Desktop Semi-Automatic Grooving Machine for Cylindrical Cells",desktop-semi-automatic-grooving-machine-for-cylindrical-cells,,6477,"<ul>
+ 	<li>Customized die for other cylindrical cell types is available upon request</li>
+ 	<li>Once the open end is grooved, seal the cap of the cylindrical case by using the CES-500 crimping tool.</li>
+ 	<li>Cylindrical cases are available of a wide variety of sizes</li>
+</ul>
+[embed]https://youtu.be/MaURgQbsgbM[/embed]","CES-GM-02 a semi-auto grooving machine. It is used for grooving various cylindrical cases including CR123,18650 26650, 32650 and AA. Various holding dies available based on customer request.",publish,CES-GM-02,,,3500,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2021/04/Cylindrical-cell-grooving.jpg ! alt :  ! title : Cylindrical cell grooving ! desc :  ! caption : ",https://cam-energy.com/product/desktop-semi-automatic-grooving-machine-for-cylindrical-cells/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"CR123 | 18650 | 26650 | 32650 | Other-custom",0|1|0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Planetary Centrifugal Mixer SK-300SII",planetary-centrifugal-mixer-sk-300sii,,6487,"<div class=""cf"">
+<div class=""lBox"">
+<h3><img class=""alignnone wp-image-6496"" src=""https://cam-energy.com/wp-content/uploads/2021/04/mode-300x75.png"" alt="""" width=""656"" height=""164"" /></h3>
+<h3><img class=""alignleft"" src=""https://www.kakuhunter.com/en/common/img/products/entry-kakuhunter/09.jpg"" alt="""" width=""199"" height=""199"" />Mode setting according to the application</h3>
+<div class=""imgArea"">
+<div>
+
+SK-300SII, the new Medium mode has been added to the existing ""mixing mode/degassing mode"".Easy operation is maintained, it offers a wider range of applications and a selection of modes suited for the material.
+
+</div>
+</div>
+</div>
+</div>
+&nbsp;
+
+&nbsp;
+<div class=""cf"">
+<div class=""lBox"">
+<div class=""imgArea"">
+<div>
+
+<hr />
+
+</div>
+<div class=""cf"">
+<div class=""rBox"">
+<p class=""tac""><img class=""alignright"" src=""https://www.kakuhunter.com/en/common/img/products/entry-kakuhunter/02.jpg"" alt="""" /></p>
+
+<h3>Equipped with a balance navigation function</h3>
+The balance can be adjusted easily for the unbalance detection and balance navigation functions.</div>
+</div>
+&nbsp;
+<hr />
+
+<h3>Compatible with 300 ml containers/max. 310 g</h3>
+<div class=""imgArea"">
+<div>
+
+Despite its compact size, this model can be used to process 300 ml containers weighing a maximum of 310 g (gross weight)!!
+
+<hr />
+
+</div>
+</div>
+</div>
+</div>
+<div class=""cf"">
+<div class=""rBox"">
+<div class=""imgR""><img class=""alignright"" src=""https://www.kakuhunter.com/en/common/img/products/entry-kakuhunter/10.jpg"" alt="""" /></div>
+<h3>Designed with a full range of safety functions</h3>
+<div class=""imgArea"">
+<div>
+
+This unit is designed with such considerations for safety as top lid lock, operation lock during while the lid is open and a malfunction prevention mechanism. In addition, the unbalance error detection and a full range of functions for warning and notifying of motor problems or maintenance set alarm with peace of mind.
+&nbsp;
+&nbsp;
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div>
+
+<hr />
+
+</div>
+<div class=""cf"">
+<div class=""cf"">
+<div class=""rBox"">
+<div></div>
+</div>
+</div>
+<div class=""cf"">
+<div class=""lBox"">
+<h3>Unique mechanisms to the SK-300SII</h3>
+<p class=""mb15""><strong>■ Medium mode</strong>
+Due to the lower ratio of rotation speed makes mixing heat sustained, so even heat sensitive materials can be used.</p>
+<strong>■ Wave mode</strong>
+The speeds of revolution and rotation makes up and down(fast and slow) like wave motion, which results in more enhanced and efficient mixing and dispersing.
+
+</div>
+</div>
+</div>","Lab version mixing and degassing machine which enables easy operation with fixed rotation speed ratio against revolution speed.
+
+Planetary mixers are ideal for getting the most homogeneous slurries in the hardest conditions and provide very quick mixing compared to traditional methods, typically in a few minutes. For more on this method see <a href=""https://www.kakuhunter.com/en/about/separate-control-system.html"">here</a>.
+
+The process is fully scalable and different versions of the machine go up to 20kg batches.
+<p class=""cups"">300ml/310g × 1 cup</p>
+<img class=""alignleft"" src=""https://www.kakuhunter.com/en/common/img/products/ico_300.jpg"" alt=""300ml × 1 cup"" />
+
+<img class=""alignnone"" src=""https://www.kakuhunter.com/en/common/img/products/ico_fixing.jpg"" alt="""" />",publish,SK-300SII,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2021/04/pimg_300sii_s.png ! alt :  ! title : pimg_300sii_s ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2021/04/Kkauhunter_SK-300S2_picture2.png ! alt :  ! title : Kakuhunter_SK-300S2_picture2 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2021/04/Kkauhunter_SK-300S2_picture3.png ! alt :  ! title : Kkauhunter_SK-300S2_picture3 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2021/04/Kkauhunter_SK-300S2_picture5.png ! alt :  ! title : Kkauhunter_SK-300S2_picture5 ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2021/04/Kakuhunter_adapters_picture.png ! alt :  ! title : Kakuhunter_adapters_picture ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2021/04/Kakuhunter_containers_picture.png ! alt :  ! title : Kakuhunter_containers_picture ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2021/04/Kakuhunter_Revolution_Rotation.png ! alt :  ! title : Kakuhunter_Revolution_Rotation ! desc :  ! caption : ",https://cam-energy.com/product/planetary-centrifugal-mixer-sk-300sii/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Celgard 2400 Monolayer PP Membrane Battery Separator",celgard-2400-monolayer-pp-membrane-battery-separator,,6517,"<strong>Celgard 2400 single layer PP Battery Separator Features:</strong>
+
+1. Production by dry method drawing process
+
+2. Excellent resistance to acids, alkalis and most chemicals
+
+3. Consistent pore structure with high chemical and thermal stability
+
+4. Ideal for various battery applications, recommend use for lithium ion batteries.
+
+5. Excellent oxidation resistance, ensuring excellent cycling and trickle charging performance
+
+6. Horizontal (TD) ""zero"" shrinkage reduces internal shorts and improves high temperature dimensional integrity","<strong>Celgard 2400 Monolayer PP Membrane Battery Separator</strong>
+
+This Microporous Monolayer Polypropylene PP Membranes is usually used to the disposable (primary) lithium battery. Monolayer PP battery separators are also well-suited for electric drive vehicle (EDV) applications.",private,Celgard-2400,,,,,,,,,,no,taxable,,,,,,https://cam-energy.com/product/celgard-2400-monolayer-pp-membrane-battery-separator/,0,,,,,,,,,,,,,White,2|1|0,,"Brand new",14|1|0,,,,,,,,,,,,,,,,,,,,"Film / Membrane",3|1|0,,"620 seconds",7|1|0,,,,,,,,,,,"60 meters",6|1|0,,5%,9|1|0,,,,,,,,,,,,,,,,,2400,1|1|0,,,,,"Celgard 2400 Monolayer PP Membrane Battery Separator",0|1|0,,,,,,,,,,,41%,10|1|0,,,,,,,,,,,"380 grams",11|1|0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0%,8|1|0,,,,,,,,,,,,,,,,,,,,"1420 Kg/cm^2",12|1|0,,"140 Kg/cm^2",13|1|0,,25um,4|1|0,,,,,,,,,,,,,,85mm,5|1|0,,,,,,,
+"SK-300TVS-A Vacuum planetary mixer",sk-300tvs-a-vacuum-planetary-mixer,,6523,"<h3>Equipped with a vacuum machine for enhanced degassing performance!</h3>
+The vacuum machine makes it possible to eliminate even very finer air bubbles, so it can be expected to even further improve the conductivity and insulation performance demanded of electronic materials, reduce the rate of defective products due to bubbles in optical materials and prevent injection of air due to air bubbles in syringes.
+<p class=""tac""><img src=""https://www.kakuhunter.com/en/common/img/products/vacuum-kakuhunter/01.jpg"" alt="""" /></p>
+
+<h3>A shifted cup tray is used on the rotation axis to enhance mixing performance!</h3>
+By shifting the cup tray on the rotation axis and increasing the contact part between the container inner wall and material, mixing capability is increased as compared to straight type (with straight cup trays) and the lump occurrence of the material is reduced. Furthermore, elongated containers such as long cartridges or syringes can be installed, and the distance from the revolution axis can be maintained, enabling uniform mixing.
+<p class=""tac""><img src=""https://www.kakuhunter.com/en/common/img/products/vacuum-kakuhunter/02.jpg"" alt="""" /></p>","A high functionality model with a vacuum reduced pressure function.
+The individual revolution and rotation speed control system and the shifted cup tray enhance mixing performance and provide effective degassing.
+<p class=""cups"">300ml × 2 cups</p>
+<img class=""alignleft"" src=""https://www.kakuhunter.com/en/common/img/products/ico_300x300.jpg"" alt=""300ml × 2 cups"" />
+
+<a href=""https://www.kakuhunter.com/en/about/separate-control-system.html""><img class=""alignnone"" src=""https://www.kakuhunter.com/en/common/img/products/ico_separate.jpg"" alt="""" /></a>
+
+<a href=""https://www.kakuhunter.com/en/about/other-features.html#decmpression""><img class=""alignleft"" src=""https://www.kakuhunter.com/en/common/img/products/ico_vacuum.jpg"" alt="""" /></a><a href=""https://www.kakuhunter.com/en/about/other-features.html#cups""><img src=""https://www.kakuhunter.com/en/common/img/products/ico_cup.jpg"" alt="""" /></a>",publish,SK-300TVS-A,,,,,,,,,,no,taxable,,,,,,https://cam-energy.com/product/sk-300tvs-a-vacuum-planetary-mixer/,0,,,,,,,,,,,,,,,,,,,"300ml×1cup, Maximum 310g (Gross Weight)
+Less than 55cc various syringe type available.",0|1|0,,,,,,,,,,,,,,"W455 × D555 × H495(㎜)",9|1|0,,,,,,,,,,,,,,,,,,,,,,,,,,"Approx. 80kg(Pump is separately provided)",10|1|0,,,,,"90
+10",6|1|0,,,,,,,,,,,,,,"Multiple containers and syringes can be used by using an adapter.",1|1|0,,,,,,,,,,,,,,1.5kW,8|1|0,,"Single phase AC 200-240VAC
+50/60Hz",7|1|0,,,,,,,,"10-300 sec. × 5 steps",4|1|0,,,,,,,,,,,"Settable in 9 steps",2|1|0,,"Settable in 10 steps
+(But it can be restricted up to revolution speed)",3|1|0,,,,,"5 steps
+Continuous operation with 5 different operation patterns (condition settings) is possible",5|1|0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Compact Vacuum Mixer w/ Pump &amp; Vibration Stage",compact-vacuum-mixer-w-pump-vibration-stage,,6525,"<table border=""1"" cellspacing=""0"" cellpadding=""1"">
+<tbody>
+<tr>
+<td>Voltage Input</td>
+<td>Single Phase 220VAC(110 available on request)</td>
+</tr>
+<tr>
+<td>Power</td>
+<td>150W</td>
+</tr>
+<tr>
+<td>Rotary Speed</td>
+<td>320 rpm</td>
+</tr>
+<tr>
+<td>Mixing Container</td>
+<td>
+<ul>
+ 	<li>Two vacuum-sealed containers are included. One 150ml stainless steel and one 500ml aluminum set</li>
+ 	<li>The mixing blade is built-in to the top of the container</li>
+ 	<li>The metal filter prevents solid particles into the vacuum pump</li>
+ 	<li>Option 1: 30mL SS container is available at extra cost (click the picture below-right to order)</li>
+ 	<li>All available containers can be found at Accessories for Slurry &amp; Liquid Mixing</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Vacuum pump &amp; Vacuum Level</td>
+<td>
+<ul>
+ 	<li>Built-in single stage vacuum pump</li>
+ 	<li>Vacuum Level: -0.08~0.09 Mpa</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Mixing Time</td>
+<td>0~99 Minutes Adjustable</td>
+</tr>
+<tr>
+<td>Vibration Plate</td>
+<td>Vibrating at 1000 Hz</td>
+</tr>
+<tr>
+<td>Dimensions</td>
+<td>13''L x 12''W x 21''H</td>
+</tr>
+<tr>
+<td>Net Weight</td>
+<td>30 kgs</td>
+</tr>
+<tr>
+<td>Shipping Dimensions</td>
+<td><strong>40''L x 25''W x 30''H</strong></td>
+</tr>
+<tr>
+<td>Shipping Weight</td>
+<td><strong>43 kgs
+</strong></td>
+</tr>
+<tr>
+<td>Vacuum Oil Tank Refill</td>
+<td>
+<ul>
+ 	<li>Notice: Operating the mixer with insufficient oil will damage the pump. Check the oil level window on the right side of the machine. If there is less than half a tank of oil, refill oil from the oil tank opening on the top of the machine.</li>
+ 	<li>Refill the tank to have oil level above half full indicated by the red dotted line in the picture to the left.</li>
+ 	<li>Please click to order High Vacuum Pump Oil / Hydrocarbon oil.</li>
+ 	<li>The mixer is not suitable for long time use.  suggest max. running time is &lt; 60 minute for each running</li>
+ 	<li>This mixer cannot be used in Ar atmosphere glovebox! Please get in touch should you need glove box use.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Warranty &amp; Compliance</td>
+<td>One year limited with lifetime support
+CE certified</td>
+</tr>
+</tbody>
+</table>
+<img class=""alignleft"" src=""https://www.aotelec.com/js/htmledit/kindeditor/attached/20191204/20191204161440_10075.jpg"" alt=""Lab small mixer machine for battery material mixing"" width=""355"" height=""230"" />
+
+<img class="""" src=""https://www.aotelec.com/js/htmledit/kindeditor/attached/20191204/20191204161553_86477.jpg"" alt=""Compact Vacuum Mixer machine with Vibration Stage"" width=""366"" height=""232"" />
+
+<img class=""alignleft"" src=""https://www.aotelec.com/js/htmledit/kindeditor/attached/20191204/20191204161639_87688.jpg"" alt=""AOT-SFM-7 Vacuum mixer mixing blade"" width=""326"" height=""242"" />
+
+<img class=""alignnone"" src=""https://www.aotelec.com/js/htmledit/kindeditor/attached/20191204/20191204161654_37439.jpg"" alt=""Compact Vacuum Mixing machine with optional mixing jar"" width=""376"" height=""269"" />","CVM-7 is designed to produce coating slurry by mixing the small batch of chemicals and compound (500 ml Max) under vacuum to remove gas bubbles and protect the sample from oxidation. It has a built-in pump that can vacuum the mixing container to -0.08Mpa and the step-less mixing speed @ 320rpm. The vibration plate is located at the bottom to remove the gas bubble before vacuum mixing and disperse the slurry after mixing. It is excellent for preparing battery electrode paste in a material research lab. It is compact and can fit in a glovebox with N2 gas (No Ar).",publish,CES-CVM-7,,,1825,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2021/04/vibrating-mixer.jpg ! alt :  ! title : vibrating mixer ! desc :  ! caption : ",https://cam-energy.com/product/compact-vacuum-mixer-w-pump-vibration-stage/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"2 Litre Tri-Shaft Vacuum Mixer with Vacuum Pump &amp; Water Chiller",2-litre-tri-shaft-vacuum-mixer-with-vacuum-pump-water-chiller,,6527,"<table border=""1"" cellspacing=""0"" cellpadding=""1"">
+<tbody>
+<tr>
+<td>Standard Version MSK-SFM-2L
+For Viscosity &lt;= 9000</td>
+<td>High Dispersing Speed Version MSK-SFM-2L-A
+For Viscosity &lt;= 3000</td>
+</tr>
+<tr>
+<td>Mixing Blades Speed &amp; Power</td>
+<td>Stirring : 0 ~ 112 RPM , 750W
+Dispersing : 0 ~ 3354 RPM, 750W</td>
+<td>Stirring: 0 ~ 140 RPM , 200W
+Dispersing: 0 ~ 8100 RPM, 200W</td>
+</tr>
+<tr>
+<td>Dimensions</td>
+<td>
+<ul>
+ 	<li>970mm × 840mm × 1050mm (W × D × H)</li>
+ 	<li>Mixing Tank: 180mm Dia. × 135mm Height</li>
+</ul>
+<a id=""mt-501090650293"" class=""MagicThumb"" href=""https://www.mtixtl.com/images/new_dimension.jpg""><img src=""https://www.mtixtl.com/images/new_dimension.jpg"" width=""90"" height=""60"" /></a>    <a id=""mt-1243578213861"" class=""MagicThumb"" href=""https://www.mtixtl.com/images/new_dimension_2.jpg""><img id=""ctl00_masterContent_productImageGallery_displayPreview"" src=""https://www.mtixtl.com/images/new_dimension_2.jpg"" width=""90"" height=""60"" /></a></td>
+<td>
+<ul>
+ 	<li>460mm × 760mm × 980mm (W × D × H)</li>
+ 	<li>Mixing Tank: 180mm Dia. × 135mm Height</li>
+</ul>
+<a class=""img"" href=""https://www.mtixtl.com/images/products/detail/MSKSFM2Lcc.jpg"" rel=""lightbox""><img src=""https://www.mtixtl.com/images/products/thumb/MSKSFM2Lcc.jpg"" width=""94"" height=""65"" /></a>   <a class=""img"" href=""https://www.mtixtl.com/images/products/detail/MSKSFM2L80.jpg"" rel=""lightbox""><img src=""https://www.mtixtl.com/images/products/thumb/MSKSFM2L80.jpg"" width=""91"" height=""65"" /></a></td>
+</tr>
+<tr>
+<td>Power Consumption</td>
+<td>
+<ul>
+ 	<li>2kW (Recommend 20A Outlet for pump cold start)</li>
+</ul>
+</td>
+<td>
+<ul>
+ 	<li>1kW (Recommend 20A Outlet for pump cold start)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Working Voltage</td>
+<td colspan=""2"">
+<ul>
+ 	<li>208 - 240V AC, 50/60HZ, Sing phase (Power cord included)</li>
+ 	<li>220V AC Power plug is not included.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Mixing Tank Diameter</td>
+<td colspan=""2"">40mm</td>
+</tr>
+<tr>
+<td>Mixing Tank Vertical Distance</td>
+<td colspan=""2"">130mm, manual</td>
+</tr>
+<tr>
+<td>Mixing Tank</td>
+<td colspan=""2"">
+<ul>
+ 	<li>180 mm I.D. x 118 mm H</li>
+ 	<li>3.0 Liter</li>
+ 	<li>Effective capacity for mixing: 2.0 Liter</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Mixing Blades
+<a id=""mt-996603668300"" class=""MagicThumb"" href=""https://www.mtixtl.com/images/products/display/Shaft.JPG?ts=131359769395396633"" target=""https://www.mtixtl.com/images/products/display/Shaft.JPG?ts=131359769395396633"" rel=""noopener""><img src=""https://www.mtixtl.com/images/products/display/Shaft.JPG?ts=131359769395396633"" width=""39"" height=""44"" /></a></td>
+<td colspan=""2"">
+<ul>
+ 	<li>3 axis planetary mixing</li>
+ 	<li>2 stirring blade</li>
+ 	<li>1 dispersing blade</li>
+ 	<li>1 spatula</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Vacuum Pump
+<img src=""http://www.mtixtl.com/images/products/detail/EQFYPmain.2.jpg"" width=""48"" height=""32"" /></td>
+<td colspan=""2"">
+<ul>
+ 	<li>One double-step rotary vane vacuum pump is included</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Liquid Cooling</td>
+<td colspan=""2"">
+<ul>
+ 	<li>One water chiller with 9L tank - EQ-KJ3000 is included</li>
+ 	<li><a href=""http://www.mtixtl.com/EQ-KJ3000.aspx""><img src=""http://www.mtixtl.com/images/products/thumb/CW3000AG1.2.jpg"" width=""66"" height=""44"" /></a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>PLC Control Panel</td>
+<td colspan=""2"">Digital touchscreen for efficient adjustments
+<a id=""mt-1061153061363"" class=""MagicThumb"" href=""https://www.mtixtl.com/images/Manual.PNG""><img src=""https://www.mtixtl.com/images/Manual.PNG"" width=""100"" height=""60"" /></a>    <a id=""mt-622596749202"" class=""MagicThumb"" href=""https://www.mtixtl.com/images/Para1.PNG""><img src=""https://www.mtixtl.com/images/Para1.PNG"" width=""99"" height=""60"" /></a></td>
+</tr>
+<tr>
+<td>Net Weight</td>
+<td colspan=""2""><span lang=""EN"">350 kg</span></td>
+</tr>
+<tr>
+<td>Compliance
+<a href=""http://www.mtixtl.com/images/products/detail/METicon.3.jpg""><img id=""ctl00_masterContent_productImageGallery_thumbPreview"" src=""http://www.mtixtl.com/images/products/thumb/METicon.3.jpg?ts=130915825983505098"" width=""74"" height=""29"" /></a></td>
+<td colspan=""2"">
+<ul>
+ 	<li>CE Certified</li>
+ 	<li><strong>NRTL or CSA certification</strong> is available upon request at an extra cost</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Warranty</td>
+<td colspan=""2"">
+<ul>
+ 	<li>One-year limited warranty with lifetime technical support</li>
+ 	<li>Rusting and damage due to improper storage conditions or lack of maintenance are not covered by warranty</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Warning</td>
+<td colspan=""2"">
+<ul>
+ 	<li><strong>The recommended operating time is (this restriction applies to model # MSK-SFM-2L-A only):</strong></li>
+ 	<li>&lt; 1 hr @ 8000RPM dispersing.</li>
+ 	<li>&lt; 2 hr @ 7000RPM dispersing.</li>
+ 	<li>&lt; 3 hr @ 6000RPM dispersing.</li>
+ 	<li>&lt; 4 hr @ 5000RPM dispersing.</li>
+ 	<li>Continous @ 4000RPM dispersing.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Operation Instructions</td>
+<td colspan=""2""><a href=""http://www.mtixtl.com/sfm-10m-2016vid.aspx""><img src=""https://www.mtixtl.com/images/tytyty.JPG"" width=""135"" height=""95"" /></a></td>
+</tr>
+<tr>
+<td>Shipping Dimensions</td>
+<td colspan=""2""><strong>#1 (Mixer   Pump): 48"" (L) x 42"" (W) x 65"" (H)
+#2 (Water Chiller): 40"" (L) x 30"" (W) x 28"" (H)
+</strong></td>
+</tr>
+<tr>
+<td>Shipping Weight</td>
+<td colspan=""2""><strong>#1: 1110 lbs
+#2: 100 lbs</strong></td>
+</tr>
+<tr>
+<td>
+Application Note</td>
+<td colspan=""2""><strong>Heated container with digital temperature controller up to 190C is available at an extra cost
+<a class=""img"" href=""https://www.mtixtl.com/images/products/detail/Heatedcontainer.png"" rel=""lightbox""><img src=""https://www.mtixtl.com/images/products/thumb/Heatedcontainer.png"" width=""106"" height=""66"" /></a></strong></td>
+</tr>
+</tbody>
+</table>","<strong>2 Liter Tri-Shaft Planetary Vacuum Mixer with Vacuum Pump &amp; Water Chiller</strong>
+
+<strong>SFM2L</strong> is a CE-certified Tri-Shaft Planetary Vacuum Mixer with a 2-liter container and PLC Touch Panel Control. Such a vacuum mixer incorporates the unique tri-shaft stirring design to ensure a gas-bubble-free blending of complex materials under vacuum with extreme uniformity. Furthermore, an observation window on the mixing tank provides a better way to monitor the entire mixing process. SFM-2L is an excellent tool for preparing LiCoO3, LiFePO4, Phosphorus, and ceramic slurries and provides very good results in dispersion and uniformity.",publish,CES-SFM2L,,,,,,,,,,no,taxable,,,,,,https://cam-energy.com/product/2-litre-tri-shaft-vacuum-mixer-with-vacuum-pump-water-chiller/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Vacuum drying Oven",vacuum-drying-oven,,6531,"The product is widely used in biochemistry, chemical and pharmaceutical, health care, agricultural research, environment protection and other areas of research and application for powder drying, baking and all kinds of glass containers’disinfection and sterilization. Especially for those drying heat-sensitive, labile, oxidizing material and decompounded to carry on fast and effective drying process.
+
+This Vacuum Drying Oven for lithium battery field mainly used for lithium battery materials, electrode and battery core vacuum drying.
+
+<strong>Vacuum Lab Oven for material heating drying under vacuum states has advantages :</strong>
+<ol>
+ 	<li>It canshort the drying temperature process</li>
+ 	<li>Avoid heating to oxidation</li>
+ 	<li>Avoid heating air to kill living cells</li>
+ 	<li>There is no dust damage</li>
+</ol>","This product is mainly used for scientific research units, specialty universities, laboratories, industrial mining enterprises etc. and production field for materials drying and heat treatment under the vacuum state.",publish,DZF-6050,,,,,,,,,,no,taxable,,,,,,https://cam-energy.com/product/vacuum-drying-oven/,0,,,,"Toughened bulletproof double glass door",13|1|0,,,,,,,,,,,,,,,,,,,,,,,,,,730*560*550mm,9|1|0,,,,,,,,,,,"304 stainless steel",11|1|0,,415*345*370mm,8|1|0,,,,,,,,,,,,,,,,,,,,,,,,,,"DZF-6050 Vacuum Drying Oven",0|1|0,,,,,,,,,,,"High quality cold-rolled steel plate electrostatic spray",12|1|0,,,,,,,,1400W,2|1|0,,,,,,,,,,,"With over temperature protection, grounding etc",14|1|0,,,,,"2pcs
+
+1 Solid stainless steel shelf, guarantee the oven temperature
+
+2 Mesh stainless steel shelf can be also chosen",15|1|0,,,,,"AC 110VAC or 220V 50Hz/60Hz",1|1|0,,,,,,,,,,,,,,,,,,,,,,,,,,"1 High precision microcomputer temperature controller, accurate temperature control
+
+2 Working temperature can be set and working time can be set for 0-9999min.
+
+3 When time reach, sound alarm, and when any error, also alarm. function",10|1|0,,±0.5℃,5|1|0,,"RT 10-250℃",4|1|0,,,,,,,,,,,,,,'-0.1MPa,6|1|0,,50L,7|1|0,,"One Year Limited Manufacture Warranty with Life Time Support",3|1|0,,,,,,,,,,
+"Binder VDL-56 Vacuum drying Oven",binder-vacuum-drying-oven,,6534,"<p class=""list-head""><strong>Benefits</strong></p>
+
+<ul>
+ 	<li class=""list-head"">Fast, gentle drying</li>
+ 	<li class=""list-head"">Optimum heat transfer through large thermal conducting plates</li>
+ 	<li class=""list-head"">Safe working thanks to ATEX-compliant safety concept</li>
+ 	<li class=""list-head"">Also option of modular complete system with vacuum pump and pump chamber</li>
+</ul>
+<div class=""slide-list benefits""></div>
+<p class=""list-head""><strong>Important characteristics</strong></p>
+
+<div class=""slide-list benefits"">
+<ul>
+ 	<li>Temperature range:  9 °C above ambient temperature to  110 °C</li>
+ 	<li>ATEX conformity for units: EX II 2/3/- G IIB T3 Gb/Gc/- X</li>
+ 	<li>Intuitive touchscreen controller with graphical pressure and temperature display</li>
+ 	<li>Program-controlled drying monitoring with automatic ventilation at end of process</li>
+ 	<li>Internal data logger, measured values can be read out in open format via USB</li>
+ 	<li>Pressure control device for heating activated from &lt; 100 mbar</li>
+ 	<li>2 aluminum expansion racks, can be custom-positioned</li>
+ 	<li>Universal connection for ventilation with ambient air or inert gas</li>
+ 	<li>Universal access port DN 16 - for the introduction of external measuring devices</li>
+ 	<li>Shatterproof, spring-mounted safety glass panel</li>
+ 	<li>Large viewing window</li>
+ 	<li>Computer interface: Ethernet</li>
+</ul>
+</div>
+<p class=""list-head""><strong>Optional equipment</strong></p>
+
+<div class=""slide-list benefits"">
+<ul>
+ 	<li>Expansion racks - Choice of aluminum or stainless steel racks depending on the application requirements</li>
+ 	<li>Analogue output for temperature and pressure signals - for external monitoring and evaluation of the process parameters, integration into in-house systems is possible</li>
+ 	<li>Universal ventilation - Selection of different ventilation by air or inert gas</li>
+ 	<li>Universal access port DN 40 - for the introduction of external measuring devices</li>
+ 	<li>Multi Management Software APT-COM - Manage, record and document device parameters</li>
+ 	<li>Services - extensive services ensure correct device function</li>
+</ul>
+</div>","A high end oven for drying electrodes or aging your batteries. BINDER VDL series safety vacuum drying chambers ensure maximum safety when drying organic solvents. Explosion-protected unit with classification according to ATEX directive 2014/34/EU: EX II 2/3/- G IIB T3 Gb/Gc/- X.",publish,VDL-56,,,11250,,,,,,,no,taxable,,,,,,https://cam-energy.com/product/binder-vacuum-drying-oven/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Automatic Vacuum Cylindrical cell Electrolyte Filling Machine",automatic-vacuum-cylindrical-cell-electrolyte-filling-machine,,6555,"<strong>Description of the working procedure:</strong>
+<ul>
+ 	<li>Once the battery is out of baking oven, they are placed onto the infusion tray, 80 batteries per tray, a total of 2 sets of trays can be placed in one cycle.</li>
+ 	<li>The tray with the battery installed is placed in the position of the liquid filling machine</li>
+ 	<li>Press the start switch, the sealing cover is lowered to seal the chamber with the tray. After the sealing is completed, vacuuming and injecting cycle are performed, based on user configuration. The machine is equipped with 2 double-headed injection pumps. 4 liquid injection heads, so that the automatic liquid injection module only needs to take the X parallel line to complete the whole set of electrolyte injection procedures.</li>
+ 	<li>After the cycle is completed, the tray is manually taken out and the next cycle is entered;</li>
+ 	<li>The operation panel adopts the form of touch screen, which is convenient and simple to operate, and the condition of the device is displayed in real time.</li>
+</ul>
+Remarks: The vacuuming time and the standing time can be set.","Automated electrolyte filling for cylindrical cells
+<ul>
+ 	<li>It is used for the vacuum electrolyte filling of various cylindrical cell cases including CR123, 18650, 26650, 32650 and AA by simply changing tray type.</li>
+ 	<li>Vacuum injection, the number of batteries in the tray: 80, divided into two vacuum boxes B, each vacuum box can be placed in one tray, 80 batteries per tray, a total of 160batteries can be placed at the same time.</li>
+</ul>",publish,ZYJ-02,,,,,,,,,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2021/04/Vacuum-filling-machine.jpg ! alt :  ! title : Vacuum filling machine ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2021/04/Vacuum-filling-machine2.jpg ! alt :  ! title : Vacuum filling machine2 ! desc :  ! caption : ",https://cam-energy.com/product/automatic-vacuum-cylindrical-cell-electrolyte-filling-machine/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"De-crimping die for Coin Cell Crimper CR-01",de-crimping-die-for-coin-cell-crimper,,6778,"<h2 class=""product-name"" data-hook=""product-title"">De Crimping die</h2>
+<section class=""description"" data-hook=""product-page-description"">
+<div class=""description-wrapper"">
+<div class=""content-wrapper"" aria-live=""assertive"" data-hook=""product-page-description-content-wrapper"">
+
+Used for re-opening crimped coin cells. Size 2016/2032/2025
+
+</div>
+</div>
+</section>",,publish,CR-01,,,470,,,,,,,no,taxable,,5324,,,"https://cam-energy.com/wp-content/uploads/2018/04/20200525_191825-scaled.jpg ! alt :  ! title : Crimping Die ! desc :  ! caption :  | https://cam-energy.com/wp-content/uploads/2018/04/20200525_191751-scaled.jpg ! alt :  ! title : Coin Cell Crimper 2 ! desc :  ! caption : ",https://cam-energy.com/product/de-crimping-die-for-coin-cell-crimper/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Pouch Electrode Die cutter",pouch-electrode-die-cutter,,6867,"<ul>
+ 	<li>DCM300 semi-automatic electrode die cutter is mainly used for pouch cell electrode sheet cut for stacking pouch cell battery. It is a necessary tool in the production line of pouch cell to produce specific shapes of cathodes and anodes with current collector tabs.</li>
+ 	<li>This Semi Automatic Die Cutting machine adopts Safety Curtain built in the front of the machine and double start button ensures operation safety when electrode sheets are fed from the front.</li>
+ 	<li>High speed, high accuracy, long lifetime to make cut electrode without burr, to get a good consistency.</li>
+ 	<li>This model has max die dimension with 200*300mm, if need other models, please choose the DCM500model with max die size up to 500*500mm.</li>
+</ul>
+<div class=""table-responsive"">
+<table style=""height: 954px;"" border=""1"" width=""1322"">
+<tbody>
+<tr>
+<td>Model</td>
+<td>Battery Electrode Die Cutter Machine  DCM300</td>
+</tr>
+<tr>
+<td>Working voltage</td>
+<td>AC110V/220V, 50/60HZ</td>
+</tr>
+<tr>
+<td>Power</td>
+<td>100W</td>
+</tr>
+<tr>
+<td>Warranty</td>
+<td>One year limited warranty with lifetime support</td>
+</tr>
+<tr>
+<td>Max cutter die size</td>
+<td>200mm(L) * 300mm(W)</td>
+</tr>
+<tr>
+<td>Die Set Dimensions</td>
+<td>One set of standard electrode die is included. within the dimensions: 200mm(L)*300mm(W), Customized size die is available upon request.</td>
+</tr>
+<tr>
+<td>Safety Protection<a href=""http://mtixtl.com/2.0gallonAirScoutCompressor-EQ-HD1004TK.aspx"">
+</a></td>
+<td>Built in Safety Curtain to protect against hand injuries during electrode feeding Double start press button</td>
+</tr>
+<tr>
+<td>Cutting Accuracy</td>
+<td>±0.1mm</td>
+</tr>
+<tr>
+<td>Air Cylinder</td>
+<td>3 tons Max. pressure</td>
+</tr>
+<tr>
+<td>Tensile Cylinder</td>
+<td>0.15 tons pressure</td>
+</tr>
+<tr>
+<td>Cutting stroke</td>
+<td>250mm</td>
+</tr>
+<tr>
+<td>Feeding</td>
+<td>Manual</td>
+</tr>
+<tr>
+<td>Production Yield</td>
+<td>800 - 2000 pieces of electrodes per hour</td>
+</tr>
+<tr>
+<td>Air Pressure</td>
+<td>0.5-0.8Mpa</td>
+</tr>
+<tr>
+<td>Dimension (L*W*H)</td>
+<td>580*455* 900mm</td>
+</tr>
+<tr>
+<td>Net Weight</td>
+<td>120kg (265 lbs)</td>
+</tr>
+<tr>
+<td>Shipping Dimensions</td>
+<td>47*75*109cm</td>
+</tr>
+</tbody>
+</table>
+<div></div>
+</div>","DCM300 semi-automatic electrode die cutter is mainly used for pouch cell electrode sheet cut for stacking pouch cell battery. It is a necessary tool in the production line of pouch cell to produce specific shapes of cathodes and anodes with current collector tabs.",publish,DCM300,,,,,120,47,75,109,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2021/11/Die-cut-machine.png ! alt :  ! title : Die cut machine ! desc :  ! caption : ",https://cam-energy.com/product/pouch-electrode-die-cutter/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Pneumatic Die Cutting Machine For Battery Electrode Cutting",pneumatic-die-cutting-machine-for-battery-electrode-cutting,,6871,"<strong>Main features:</strong>
+<ul>
+ 	<li>Sheet type electrode feeding, knife template for die cutting, can be placed in the glove box.</li>
+ 	<li>Easy to replace the cutting blade.</li>
+ 	<li>Long die life, normal use≥30,000 times.</li>
+ 	<li>No quality defects such as burrs, powder drop, and indentation.</li>
+ 	<li>Easy to operate, safe and reliable, small size.</li>
+</ul>
+<table style=""height: 498px;"" border=""1"" width=""1333"">
+<tbody>
+<tr>
+<td>Model</td>
+<td>Pneumatic Battery Electrode Die Cutter CES180S</td>
+</tr>
+<tr>
+<td>Vertical burr</td>
+<td>≤12μm</td>
+</tr>
+<tr>
+<td>Horizontal burr</td>
+<td>≤20μm</td>
+</tr>
+<tr>
+<td>Max punching size</td>
+<td>L85*W65mm(can be customized according to requirements)</td>
+</tr>
+<tr>
+<td>Punching accuracy</td>
+<td>±0.1mm</td>
+</tr>
+<tr>
+<td>Punching pressure</td>
+<td>Max. 1T (0.5MPa compressed air). Punching the battery electrode recommended pressure 500Kg</td>
+</tr>
+<tr>
+<td>Stroke</td>
+<td>35mm</td>
+</tr>
+<tr>
+<td>Compressed air</td>
+<td>0.5MPa. If placed in a glove box, the gas used is the same as that used in the glove box.</td>
+</tr>
+<tr>
+<td>Dimension(L*W*H)</td>
+<td>350*230*300mm</td>
+</tr>
+<tr>
+<td>Weight</td>
+<td>32kg</td>
+</tr>
+<tr>
+<td>Warranty</td>
+<td>One year limited warranty</td>
+</tr>
+</tbody>
+</table>","Pneumatic die cutter is suitable for die-cutting of positive and negative electrodes of batteries, punching sheet type electrode by pneumatic method and can be placed in the glove box.",publish,CES180S,,,,,32,35,23,30,,no,taxable,,,,,,https://cam-energy.com/product/pneumatic-die-cutting-machine-for-battery-electrode-cutting/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Cup Forming Machine for Al-laminated Film",,,6873,"The machine is used to prepare polymer cases made of Aluminum Laminated Films.
+This lab aluminum laminated film pouch forming machine is designed with simple Spring mold with a smaller size, which is more suitable for lab research.
+
+<strong>Main Feature:</strong>
+<ul>
+ 	<li>Four guide column structures for smooth sliding up and down.</li>
+ 	<li>It is simple and quick to change the mold and adjust the stretching depth..</li>
+ 	<li>Compared with similar products, when use the same quality aluminum laminated film,this machine stretches deeper and more stable.</li>
+ 	<li>Precise mold design, no crow's feet and sag at each corner of the product after forming.</li>
+ 	<li>Protected by light curtain and cover, safe to use;</li>
+ 	<li>Made of Japanese imported mold material and high-strength chrome steel and alloy aluminum, the surface is treated with environmentally friendly plating and baking finish;</li>
+ 	<li>Exquisite appearance, sheet metal adopts three-dimensional geometric design, simple and beautiful.</li>
+ 	<li>Easy to operate, safe and reliable, small size</li>
+</ul>
+<table style=""font-weight: 400;height: 634px"" width=""1346"">
+<tbody>
+<tr>
+<td width=""234"">Model</td>
+<td width=""463"">CFM250</td>
+</tr>
+<tr>
+<td width=""234"">Source voltage</td>
+<td width=""463"">AC 220V, 50HZ</td>
+</tr>
+<tr>
+<td width=""234"">Power</td>
+<td width=""463"">100W</td>
+</tr>
+<tr>
+<td width=""234"">Warranty</td>
+<td width=""463"">One year limited warranty with lifetime support</td>
+</tr>
+<tr>
+<td width=""234"">Suitable aluminum film size</td>
+<td width=""463"">300*280mm(L*W), customized, with punching depth ≤6mm</td>
+</tr>
+<tr>
+<td width=""234"">Max. Cup Depth to Punch</td>
+<td width=""463"">Single pit punching depth ≤6mm</td>
+</tr>
+<tr>
+<td width=""234"">Output</td>
+<td width=""463"">100-200EA/H</td>
+</tr>
+<tr>
+<td width=""234"">Output pressure</td>
+<td width=""463"">5T</td>
+</tr>
+<tr>
+<td width=""234"">Air source</td>
+<td width=""463"">0.5-0.7MPa</td>
+</tr>
+<tr>
+<td width=""234"">Dimension(L*W*H)</td>
+<td width=""463"">560*420*925mm</td>
+</tr>
+<tr>
+<td width=""234"">Weight</td>
+<td width=""463"">About 250 kg</td>
+</tr>
+<tr>
+<td width=""234"">Mold part</td>
+<td width=""463"">Mold/core roughness: ：0.4(mirror reflection), Upper and lower die flatness: 0.02mm, Core flatness: 0.02mm</td>
+</tr>
+</tbody>
+</table>","<div class=""main"">CFM250 Battery Pouch Forming Machine is used for lithium polymer battery/ pouch cell cup forming in the production line of making pouch cell batteries.</div>",draft,CFM250,,,,,250,56,42,92.5,,no,taxable,,,,,,https://cam-energy.com/?post_type=product&p=6873,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Vacuum Sealing machine-VSM200",,,6878,"VSM200 compact vacuum sealer is mainly used for sealing aluminium-laminated case in glove box after injection of electrolyte into pouch Li-ion cell or after formation for final seal (polymer Li-Ion cell). Heatable sealer blade is built into the chamber, automatically sealing the aluminium film pouch case for polymer battery.
+<table style=""height: 1001px;"" border=""2"" width=""1359"">
+<tbody>
+<tr>
+<td>Model</td>
+<td>Compact Vacuum Sealer VSM200</td>
+</tr>
+<tr>
+<td>Source voltage</td>
+<td>AC 220V/110V, 50/60HZ</td>
+</tr>
+<tr>
+<td>Power</td>
+<td>600W</td>
+</tr>
+<tr>
+<td>Warranty</td>
+<td>One year limited warranty with lifetime support</td>
+</tr>
+<tr>
+<td>Advantages</td>
+<td>1. Sealing Head adopts copper material, good heat transfer effect, 2. With adjust, plate, Can apply to different specifications battery, and the adjusting is simple</td>
+</tr>
+<tr>
+<td>Vacuum degree</td>
+<td>-95Kpa - 0</td>
+</tr>
+<tr>
+<td>Sealing head TEM</td>
+<td>RT-250℃, adjustable</td>
+</tr>
+<tr>
+<td>TEM accuracy</td>
+<td>±1.5℃</td>
+</tr>
+<tr>
+<td>Sealing pressure</td>
+<td>0-7Kg/cm2, adjustable</td>
+</tr>
+<tr>
+<td>Sealing time</td>
+<td>0-99s, adjustable</td>
+</tr>
+<tr>
+<td>Sealing Blade</td>
+<td>Hard type (without rubber, only for Al case sealing, not suitable for sealing case with tab in between)</td>
+</tr>
+<tr>
+<td>Sealing width</td>
+<td>5mm, customized</td>
+</tr>
+<tr>
+<td>Sealing head length</td>
+<td>200mm</td>
+</tr>
+<tr>
+<td>Suitable battery size (Inner size)</td>
+<td>180*120*10mm</td>
+</tr>
+<tr>
+<td>Air source</td>
+<td>0.5-0.7MPa (72.5-102psi)</td>
+</tr>
+<tr>
+<td>Dimension(L*W*H)</td>
+<td>Sealing Unit with Chamber Closed: 470*430*480mm, Sealing Unit with Chamber opened: 470*430*559mm, Control Unit: 420*320*220mm</td>
+</tr>
+<tr>
+<td>Weight</td>
+<td>About 50kg</td>
+</tr>
+</tbody>
+</table>","VSM200 is mainly applied for pouch cell, lithium battery vacuum pumping, heating press pre-sealing after filling, and standing",draft,VSM200,,,,,50,47,43,48,,no,taxable,,,,,,https://cam-energy.com/?post_type=product&p=6878,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Electrolyte filling electronic pump system",,,6880,"<strong>SPECIFICATIONS</strong>
+<table style=""height: 494px"" border=""1"" width=""1341"">
+<tbody>
+<tr>
+<td>Model</td>
+<td>Single Head Electric Injection Pump NT36</td>
+</tr>
+<tr>
+<td>Warranty</td>
+<td>One year limited and lifetime support</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Rotating reciprocating positive displacement special ceramic injection pump</td>
+</tr>
+<tr>
+<td>Speed</td>
+<td>1-800 rpm, According to system configuration and fluid characteristics, For battery industry, 60-200rpm is best</td>
+</tr>
+<tr>
+<td>Stroke number</td>
+<td>1-9999times, According to system configuration and fluid characteristics</td>
+</tr>
+<tr>
+<td>Filling range</td>
+<td>0-2.4ml adjustable</td>
+</tr>
+<tr>
+<td>Filling accuracy</td>
+<td>Within 3‰</td>
+</tr>
+<tr>
+<td>Source voltage</td>
+<td>AC110V/220V, 50/60HZ Single phase</td>
+</tr>
+<tr>
+<td>Power</td>
+<td>300W</td>
+</tr>
+<tr>
+<td>Dimension (L*W*H)</td>
+<td>Controller box : 340*300*145mm, Filling device : 230*160*155mm</td>
+</tr>
+</tbody>
+</table>","<div class=""main"">NT36 Filling pump system includes an electronic control box, a stepper motor, and A high-precision rotating fluid reciprocating pump made by special ceramic. It is used for multiple high precision spraying/lithium battery liquid injection system</div>",draft,NT36,,,,,,34,30,14.5,,no,taxable,,,,,,https://cam-energy.com/?post_type=product&p=6880,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Adjustable Electrolyte injector 50ml",,,6883,"<ul>
+ 	<li>Optional Capacity: 0.2-2ml,0.5-5ml,1-10ml,2.5-25ml,5-50ml.</li>
+ 	<li>Warranty: One year limited warranty with lifetime support.</li>
+ 	<li>Application: For lithium ion battery electrolyte injection.</li>
+</ul>
+<table style=""height: 697px"" border=""2"" width=""1297"">
+<tbody>
+<tr>
+<td>Model</td>
+<td>BE50M, Electrolyte injector</td>
+</tr>
+<tr>
+<td rowspan=""5"">Features</td>
+<td>Liquid can be removed directly from reagent bottle.</td>
+</tr>
+<tr>
+<td>Easy to disassemble and clean.</td>
+</tr>
+<tr>
+<td>With an interchangeable intake valve</td>
+</tr>
+<tr>
+<td>Can sterilize at 121 °c high pressure</td>
+</tr>
+<tr>
+<td>With Conformity qualification</td>
+</tr>
+<tr>
+<td rowspan=""2"">Accessories</td>
+<td>4 PP bottle adapters, 45/40mm, 45/33mm, 33mm/28, 33mm/24 and filling tube</td>
+</tr>
+<tr>
+<td>One 32Oz Boston round glass bottles are included.</td>
+</tr>
+<tr>
+<td>Warranty</td>
+<td>One year limited warranty with lifetime support</td>
+</tr>
+<tr>
+<td rowspan=""2"">Applications</td>
+<td>For lithium ion battery electrolyte injection.</td>
+</tr>
+<tr>
+<td>For almost every dispensing application</td>
+</tr>
+<tr>
+<td>Optional Capacity</td>
+<td>0.2-2ml,0.5-5ml,1-10ml,2.5-25ml,5-50ml</td>
+</tr>
+</tbody>
+</table>","This digital adjustable electrolyte injector tool filling machine is using for lithium ion battery electrolyte injection.",draft,BE50M,,,,,,,,,,no,taxable,,,,,,https://cam-energy.com/?post_type=product&p=6883,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"PAT-Cell- A1001",,,6885,"The PAT-Cell is equally suitable for automated high-throughput scenarios and small-scale test series.
+
+<strong>Specifications</strong>
+<ul>
+ 	<li>Temperature resistance: -20 to 80° C</li>
+ 	<li>Electrode diameter: 18 mm</li>
+ 	<li>Diameter: 49.5 mm</li>
+</ul>","The PAT-Cell A1001 is a test cell for 2- and 3- electrode measurements on battery materials. It uses the modular PAT-Core concept and can therefore be used for a variety of test purposes. The cell has no wiring but is inserted directly into a PAT battery tester or connected to any commercially available battery tester/potentiostat via a PAT docking station. The easy handling is further improved by features such as the integrated PAT-Button. This patented*, electronic memory in the cell bottom enables automatic cell recognition when the cell is inserted into a PAT battery tester.",draft,A1001,,,,,0.4,,,6.1,,no,taxable,,,,,,https://cam-energy.com/?post_type=product&p=6885,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"EL-Cut High Precision Electrode Cutter",el-cut-high-precision-electrode-cutter,,6887,"<p align=""LEFT"">Accuracy and reproducibility of electrochemical tests do not solely ­depend on the choice of materials but also on simple geometric and mechanical parameters. The proper cutting of the electrodes is an often neglected factor. Torn and chipped electrode edges – although invisible to the bare eye – inevitably cause current inhomogeneity and are thus likely to affect experimental results. Especially life cycle and impedance results are prone to such artefacts. Electrodes being cut by conventional punching (stamping) with only one punch force show chipped edges and are not plain.</p>
+<p align=""LEFT"">The EL–Cut is a high–precision punching tool specially designed for punching electrodes from coated Cu and Al foils. In contrast to conventional punching,  electrodes being cut (fine blanked) by the EL–Cut are produced by three active forces and in tools with a few microns cutting clearance. The fine blanking process results in electrodes having clean cutting surfaces without torn or chipped edges and being almost perfectly flat.</p>
+
+<h3>Features</h3>
+<ul>
+ 	<li><i class=""fa fa-check minti-icon""></i>Perfectly cut electrodes</li>
+ 	<li><i class=""fa fa-check minti-icon""></i>Designed for cutting electrodes coated on Al and Cu foil</li>
+ 	<li><i class=""fa fa-check minti-icon""></i> Cutting tools available with diameters from 6 to 40 mm (One cutting size per EL-Cut). Different shapes (e.g. squared) are available on request</li>
+</ul>","The punching tool of the EL-Cut is permanently installed and cannot be changed. The EL–Cut is available in different versions, each with a different cutting tool. The diameter of a tool can be between 6 and 40 mm. Different shapes, e.g. squared, are possible.",draft,,,,,,2.8,6,38,14,,no,taxable,,,,,"https://cam-energy.com/wp-content/uploads/2021/11/EL-CUT.png ! alt : EL Cutter ! title : EL-CUT ! desc :  ! caption : ",https://cam-energy.com/?post_type=product&p=6887,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"ECC-LiPunch Punching tool for lithium foil",ecc-lipunch-punching-tool-for-lithium-foil,,6890,"<h2 class=""headline font-inherit fontsize-l fontweight-400 lh-inherit align-left transform-inherit head_large_content"">ECC-LiPunch features</h2>
+<div class=""minti_boxedholder clearfix"">
+<div class=""wpb_text_column wpb_content_element "">
+<div class=""wpb_wrapper"">
+<ul>
+ 	<li><i class=""fa fa-check minti-icon""></i>For punching highly precise and flat lithium discs</li>
+ 	<li><i class=""fa fa-check minti-icon""></i>Standard size for EL-CELL test cells: 18 mm diameter</li>
+ 	<li><i class=""fa fa-check minti-icon""></i>Other sizes available: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 16.6, 17, 18, 19, 20 mm</li>
+ 	<li>Cutting diameter: 18 mm (other dia. on request)</li>
+ 	<li>Diameter: 39 mm</li>
+</ul>
+</div>
+</div>
+</div>","<div class=""wpb_row vc_row-fluid standard-section section section-no-parallax stretch "" data-speed=""1"">
+<div class=""col span_12 color-dark left"">
+<div class=""vc_col-sm-12 wpb_column column_container col no-padding color-dark"" data-animation="""" data-delay="""">
+<div class=""wpb_wrapper"">
+<div class=""vc_row wpb_row vc_inner vc_row-fluid"">
+<div class=""wpb_column vc_column_container vc_col-sm-10"">
+<div class=""vc_column-inner"">
+<div class=""wpb_wrapper"">
+<div class=""wpb_text_column wpb_content_element "">
+<div class=""wpb_wrapper"">
+<p align=""LEFT"">Forget about your lithium foil getting stuck to the hollow punch! The ECC-LiPunch is the perfect tool for smoothly punching 18 mm lithium discs for the ECC and PAT series test cells as well as your coin cells.</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>",draft,ECC-LiPunch,,,,,0.7,10,,,,no,taxable,,,,,,https://cam-energy.com/?post_type=product&p=6890,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Lithium disc Punch",lithium-disc-punch,,6892,"Rated thickness of the sheet is 0.5-3 mm; and the rated diameter is 5-30mm. dimensions other than standard spec can be ordered. Please contact us to consult.
+
+<strong>SPECIFICATION</strong>
+<ul>
+ 	<li>Material: POM (Overall)</li>
+</ul>","It is a handy tool for lithium sheet punching. All parts are made of plastic material. The product can be pushed out with a pusher through the punch core if it sticks on the
+punch end.",publish,PU-02,,,400,,0.3,7,5,5,,no,taxable,,,,,,https://cam-energy.com/product/lithium-disc-punch/,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"High porosity polyimide fiber separator",,,7088,,,draft,,,,,,,,,,,no,taxable,,,,,,https://cam-energy.com/?post_type=product&p=7088,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
