@@ -1,0 +1,79 @@
+<?php
+/**
+ * Enqueue script and styles for child theme
+ */
+function woodmart_child_enqueue_styles() {
+	wp_enqueue_style( 'child-style', get_stylesheet_directory_uri() . '/style.css', array( 'woodmart-style' ), woodmart_get_theme_info( 'Version' ) );
+}
+add_action( 'wp_enqueue_scripts', 'woodmart_child_enqueue_styles', 10010 );
+
+
+function add_custom_class_to_single_product_page($classes) {
+    if (is_product()) {
+        global $post; // Define $post as a global variable
+
+        // Get the product ID.
+        $product_id = $post->ID;
+
+        // Check if the product has attributes.
+        $product = wc_get_product($product_id);
+        if (!$product->has_attributes()) {
+            // Add your custom class here
+            $classes[] = 'check_attribute_product';
+        } else {
+             $classes[] = 'check_attribute_product_spec';
+        }
+    }
+    return $classes;
+}
+add_filter('body_class', 'add_custom_class_to_single_product_page');
+
+
+/**restrict for login user***/
+add_action('template_redirect','check_if_logged_in');
+function check_if_logged_in()
+{
+	$pageid =5935;
+	if(!is_user_logged_in() && is_page($pageid))
+	{
+		$url = add_query_arg(
+			'redirect_to',
+			get_permalink($pagid),
+			site_url('/my-account/') // your my acount url
+		);
+		wp_redirect($url);
+		exit;
+	}
+}
+
+
+
+/**
+ * Customizing styles of the email notification
+ *
+ * @link https://wpforms.com/developers/how-to-customize-the-styles-on-the-email-template/
+ */
+  
+function wpf_dev_email_message_custom_styles( $message ) {
+     
+    $custom_styles =
+        '
+        #templateBody {
+            background-color: #32a852;
+        }
+ 
+        #templateBody .mcnTextContent a { 
+            color:#32a852;  
+            font-weight:normal;     
+            text-decoration:underline; 
+        }
+        ';
+ 
+        $message = preg_replace('/<style type="text\/css">(.*?)<\/style>/s', '<style type="text/css">$1' . $custom_styles . '</style>', $message);
+ 
+        return $message;
+     
+}
+   
+add_filter( 'wpforms_email_message', 'wpf_dev_email_message_custom_styles', 10, 1);
+

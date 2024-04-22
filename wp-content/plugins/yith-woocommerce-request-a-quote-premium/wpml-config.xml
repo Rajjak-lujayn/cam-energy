@@ -1,0 +1,75 @@
+<wpml-config>
+    <admin-texts>
+        <key name="ywraq_checkout_quote_button_label"/>
+        <key name="ywraq_show_btn_link_text"/>
+        <key name="ywraq_show_already_in_quote"/>
+        <key name="ywraq_return_to_shop_after_sent_the_request"/>
+        <key name="ywraq_return_to_shop_after_sent_the_request_url"/>
+        <key name="ywraq_message_after_sent_the_request"/>
+        <key name="ywraq_show_browse_list"/>
+        <key name="ywraq_show_product_added"/>
+        <key name="ywraq_additional_text_field_label"/>
+        <key name="ywraq_additional_text_field_label_2"/>
+        <key name="ywraq_additional_text_field_label_3"/>
+        <key name="ywraq_additional_upload_field_label"/>
+        <key name="ywraq_accept_link_label"/>
+        <key name="ywraq_reject_link_label"/>
+        <key name="ywraq_order_again_button_label"/>
+        <key name="ywraq_pdf_footer_content"/>
+        <key name="ywraq_pdf_info"/>
+        <key name="ywraq_return_to_shop_label"/>
+        <key name="ywraq_page_id"/>
+        <key name="ywraq_page_accepted"/>
+        <key name="ywraq_return_to_shop_url"/>
+        <key name="ywraq_update_list_label"/>
+        <key name="ywraq_clear_list_label"/>
+        <key name="ywraq_show_download_pdf_on_request_label"/>
+        <key name="ywraq_title_before_form"/>
+        <key name="ywraq_quote_endpoint_label"/>
+		<key name="ywraq_quote_label_new_quotes_status"/>
+		<key name="ywraq_quote_admin_text_new_quotes_status"/>
+        <key name="woocommerce_ywraq_email_settings">
+            <key name="subject"/>
+            <key name="heading"/>
+            <key name="email-title"/>
+            <key name="email-description"/>
+            <key name="email_from_name"/>
+        </key>
+        <key name="woocommerce_ywraq_send_quote_settings">
+            <key name="subject"/>
+            <key name="heading"/>
+            <key name="email-title"/>
+            <key name="email-description"/>
+        </key>
+        <key name="woocommerce_ywraq_email_customer_settings">
+            <key name="subject"/>
+            <key name="heading"/>
+            <key name="email-description"/>
+        </key>
+        <key name="woocommerce_ywraq_send_quote_reminder_settings">
+            <key name="subject"/>
+            <key name="heading"/>
+            <key name="email-title"/>
+            <key name="email-description"/>
+        </key>
+        <key name="woocommerce_ywraq_quote_status">
+            <key name="subject"/>
+            <key name="heading"/>
+            <key name="email-title"/>
+            <key name="email-description"/>
+        </key>
+        <key name="ywraq_default_table_form">
+            <key name="*">
+                <key name="label"/>
+				<key name="placeholder"/>
+                <key name="options"/>
+                <key name="description"/>
+            </key>
+        </key>
+        <key name="ywraq_thank_you_page"/>
+    </admin-texts>
+    <custom-types>
+        <custom-type translate="1">ywraq-pdf-template</custom-type>
+    </custom-types>
+
+</wpml-config>
