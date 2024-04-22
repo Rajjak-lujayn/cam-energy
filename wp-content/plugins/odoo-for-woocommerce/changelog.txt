@@ -1,0 +1,181 @@
+*** Odoo for Woocommerce Changelog ***
+
+2024-02-23 - version 3.7.8
+* Update: PLUGINS-2383 - Usability - Settings Text Corrections.
+* Update: PLUGINS-2384 - Usability - Log improvements.
+* Fix: PLUGINS-2499 - Last sync column breaks Products view
+
+2024-02-14 - version 3.7.7
+* Fix: PLUGINS-2360 - Investigate and resolve issues for order synchronization.
+* Fix: PLUGINS-2294 - Product Import/Export. Check tag syncing.
+
+2024-02-12 - version 3.7.6
+* Fix: PLUGINS-2463 - Error handling and directory validation needed in code.
+
+2024-02-06 - version 3.7.5
+* Fix: PLUGINS-2418 - Debug log errors on new orders.
+* Fix: PLUGINS-2419 - Use prepare function when retrieving order data from database.
+* Fix: PLUGINS-2420 - Enter export from date and to date for cron in debug log.
+* Fix: PLUGINS-2421 - Sync Coupon title in Odoo.
+
+2024-01-23 - version 3.7.4
+* Fix: PLUGINS-2387 - Woo QI Test Issues.
+
+2024-01-18 - version 3.7.3
+* Fix: PLUGINS-2423 - Export "Product Sync" related function need to update.
+* Fix: PLUGINS-2424 - Export "Customer Sync" related feature not working correctly.
+* Fix: PLUGINS-2425 - Product decimal price not updated.
+
+2023-12-19 - version 3.7.2
+* New: PLUGINS-2354 - Option to Map all Orders to single Odoo Customer.
+
+2023-12-08 - version 3.7.1
+* Fix: PLUGINS-2074 - Exporting products job is slow.
+* Update: PLUGINS-2368 - Compatibility for Odoo v17.
+
+2023-11-13 - version 3.7.0
+* Update: PLUGINS-2290 - Improve background processing on checkout.
+* Fix: PLUGINS-2295 - Fix categories hierarchy with the products import.
+
+2023-10-26 - version 3.6.0
+* New: PLUGINS-2206 - Product variation sync.
+
+2023-09-20 - version 3.5.7
+* Fix: PLUGINS-2226 - Add safetycheck for cron events.
+* Fix: PLUGINS-2225 - Syncing invoices from Woo to Odoo now includes shipping costs.
+* Update: PLUGINS-2095 - Disable emails when importing refund orders.
+
+2023-09-14 - version 3.5.6
+* New: PLUGINS-2244 - Add access to Woo log from Odoo settings.
+* Update: PLUGINS-2245 - Expand Woo Logging to help with support and debugging.
+
+2023-08-25 - version 3.5.5
+* Update: PLUGINS-1916 - Woo HPOS Compatibility Audit/Upgrade.
+
+2023-08-08 - version 3.5.4
+* Update: PLUGINS-2168 - Various setting improvements.
+* Update: PLUGINS-2157 - Odoo connector DB fields update.
+* Update: PLUGINS-2159 - Credential validation and wording.
+
+2023-07-25 - version 3.5.3
+* Fix: PLUGINS-2210 - Woos Activation testing warnings.
+* Add: PLUGINS-1842 - Add Warning notification when Woo disabled of its dependency.
+* Fix: PLUGINS-2175 - Woo Security Scan Issues April 2023.
+* Add: PLUGINS-2155 - Synced column on Products overview.
+
+2023-07-14 - version 3.5.2
+* Add: PLUGINS-2127 - Batch Syncing.
+
+2023-06-06 - version 3.5.1
+* Fix: PLUGINS-2036 - Display and fix the cause why manual import not working.
+* Fix: PLUGINS-2007 - Total price is rounding off in Odoo invoices.
+
+2023-05-18 - version 3.5.0
+* New: PLUGINS-1865 - Multi Language support.
+* New: PLUGINS-1667 - Indicator to check if Odoo and WooCommerce are successfully connected.
+
+2023-04-29 - version 3.4.1
+* Fix: PLUGINS-2148 - Correct invalid URL.
+
+2023-04-19 - version 3.4.0
+* Update: PLUGINS-2063 - State mapping issue.
+
+2023-03-27 - version 3.3.0
+* Update: PLUGINS-1981 - Woo Review Issues.
+
+2023-03-21 - version 3.2.0
+* New: PLUGINS-1841 - Introduction of Odoo Connector to remove PHP XML-RPC dependency.
+
+2023-02-02 - version 3.1.0
+* Fix: PLUGINS-1895 - Importing products to Woo missing properties
+* Fix: PLUGINS-1897 - When importing orders customers get emails
+* Fix: PLUGINS-1898 - Various problems with cron job that imports products from Odoo
+
+2023-01-09 - version 3.0.0
+* Fix: PLUGINS-1798 - Import failing from another database.
+* PLUGINS-1799 - Mixing imported products with existing ones.
+
+2022-12-08 - version 2.9.0
+* Add: PLUGINS-1862 - Add Fiscal Positions.
+
+2022-11-21 - version 2.8.0
+* Add: PLUGINS-1939 - Dash Notification of XML RPC Requirement.
+* Fix: PLUGINS-1800 - Resolve mass export of products issue.
+* Add: PLUGINS-1894 - Ability to manually trigger cron job events. 
+
+2022-11-04 - version 2.7.0
+* PLUGINS-1778 - Upgrade for Odoo v16.
+* PLUGINS-1797 - Exporting empty orders adjustment.
+
+2022-10-21 - version 2.6.0
+* PLUGINS-1795 - Improve load time speed.
+
+2022-10-14 - version 2.5.0
+* PLUGINS-1794 - Improve initial connection to Odoo.
+* Fix: PLUGINS-1796 - Critical error when installing or removing plugin (Ripcord related).
+
+2022-10-10 - version 2.4.1
+* Fix: PLUGINS-1739 - Ripcord issue.
+* PLUGINS-1750 - Resolve installation DB string deletion issue.
+
+2022-09-08 - version 2.4.0
+* Fix: PLUGINS-1635 - Update customer (Import) not working as expected.
+* Fix: PLUGINS-1633 - Typos.
+* Fix: PLUGINS-1634 - Import products issue.
+* Fix: PLUGINS-1636 - Import refund orders issue.
+* Fix: PLUGINS-1637 - Exclude products by categories (export) issue.
+* PLUGINS-1638 - Resolve Export product options doesn't work on their own.
+* PLUGINS-1639 - Resolve Always exporting orders.
+* Fix: PLUGINS-1640 - Exporting order and invoice.
+* PLUGINS-1641 - Adjust Mark invoice as paid.
+* PLUGINS-1642 - Resolve Wrong credentials message when installing plugin.
+
+2022-05-27 - version 2.3.0
+* PLUGINS-1338 - Add support for Odoo databases using multi company files.
+* PLUGINS-943 - Filter New Feature.
+
+2022-02-25 - version 2.2.0
+* PLUGINS-1438 - Order total rounding bug.
+* PLUGINS-1447 - Product Sync failing to sync all products.
+
+2022-01-13 - version 2.1.0
+* PLUGINS-1039 - Product sync based on time (Export Feature).
+* PLUGINS-1042 - Importing existing Customer Data based on time.
+
+2021-11-24 - version 2.0.0
+* PLUGINS-1256 - Import features are not working.
+* PLUGINS-1245 - Handle errors in Odoo.
+* PLUGINS-1228 - Test plugin for Odoo v15 compatibility.
+* PLUGINS-1219 - Fix issue users synced without address.
+* PLUGINS-1275 - Export product price to WooCommerce.
+
+2021-09-24 - version 1.7.0
+* PLUGINS-1036 - Include order notes for ordered products.
+* PLUGINS-1035 - Add order status mapping functionality.
+* PLUGINS-1195 - Add Deactivation and Delete (uninstall) functionality.
+
+2021-08-20 - version 1.6.0
+* PLUGINS-1170 - Add option that allows order only, or order and invoice.
+
+2021-08-11 - version 1.5.0
+* PLUGINS-1044 - Refund management (2 way sync/operation)
+* PLUGINS-1013 - Plugin conflict badge management for woocommerce
+* PLUGINS-1034 - Creating Import and Export Features 
+* PLUGINS-1038 - Weight & Volume Sync
+* PLUGINS-1040 - Regular price and Cost Sync
+
+2021-05-05 - version 1.4.0
+* PLUGINS-977	- Adjust inventory sync to link SKU of woo with Barcode of Odoo
+* PLUGINS-978	- Adjust SKU sync to accept both digits and letters
+
+2021-03-22 - version 1.3.0
+* PLUGINS-937 - Update Disable Sync
+
+2021-02-15 - version 1.2.0
+* Add: PLUGINS-823 - New features Sync Product, images, category and refunds.
+
+2020-10-15 - version 1.1.0
+* Fix: Invalid credential notifications.
+
+2020-08-07 - version 1.0.0
+* Initial release.
